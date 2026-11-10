@@ -22,9 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Installer les dependances
-        run: pip install -r requirements.txt
-
+       - name: Installer les dependances
+          run: pip install requests
+  
       - name: Scanner Jolijou
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
