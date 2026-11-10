@@ -15,13 +15,11 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 STATE_FILE = Path("data/state.json")
 
-# Paramètres modifiables
 EXTRA_COST_EUR = 60.00
 ANOMALY_DROP_PERCENT = 20
 MAX_ALERTS_PER_RUN = 10
 SALE_MULTIPLIERS = [1.30, 1.50, 2.00]
 
-# Frais indicatifs : à vérifier selon ton statut et les conditions des plateformes
 PLATFORMS = {
     "eBay": {"rate": 0.12, "fixed": 0.35},
     "Vinted": {"rate": 0.00, "fixed": 0.00},
@@ -82,7 +80,7 @@ def get_exchange_rate(old):
         previous_rate = old.get("last_exchange_rate")
 
         if previous_rate:
-            print("API de change indisponible : ancien taux utilisé.")
+            print("Ancien taux de change utilisé.")
             return float(previous_rate)
 
         raise Exception("Impossible de récupérer le taux JPY/EUR.")
@@ -101,7 +99,9 @@ def format_profitability(cost):
 
     for multiplier in SALE_MULTIPLIERS:
         sale_price = cost * multiplier
-        lines.append(f"\nPrix de vente simulé : {euro(sale_price)}")
+        lines.append(
+            f"\nPrix de vente simulé : {euro(sale_price)}"
+        )
 
         for name, fees in PLATFORMS.items():
             total_fees = sale_price * fees["rate"] + fees["fixed"]
@@ -147,6 +147,13 @@ def scan_products():
 
 def main():
     old = load_state()
+
+    # Vérification de Telegram
+    send_telegram(
+        "🟢 JOLIJOU DEAL HUNTER V2\n"
+        "Nouveau scan démarré !"
+    )
+
     rate = get_exchange_rate(old)
 
     print(f"Taux de change : 1 JPY = {rate} EUR")
@@ -218,7 +225,9 @@ def main():
                     / reference_price * 100
                 )
 
-                reasons.append(f"📉 BAISSE DE PRIX : -{reduction:.1f}%")
+                reasons.append(
+                    f"📉 BAISSE DE PRIX : -{reduction:.1f}%"
+                )
                 drops_count += 1
 
                 if reduction >= ANOMALY_DROP_PERCENT:
@@ -231,7 +240,9 @@ def main():
                 if price_jpy <= average * (
                     1 - ANOMALY_DROP_PERCENT / 100
                 ):
-                    if not any("BAISSE IMPORTANTE" in r for r in reasons):
+                    if not any(
+                        "BAISSE IMPORTANTE" in r for r in reasons
+                    ):
                         reasons.append("⚠️ PRIX ANORMALEMENT BAS")
                         anomalies_count += 1
 
@@ -267,16 +278,20 @@ def main():
     })
 
     summary = (
-        "SCAN JOLIJOU TERMINÉ\n"
+        "✅ SCAN JOLIJOU TERMINÉ\n\n"
         f"Produits analysés : {len(current)}\n"
         f"Nouveaux produits : {new_count}\n"
         f"Baisses de prix : {drops_count}\n"
         f"Anomalies : {anomalies_count}\n"
         f"Alertes envoyées : {alerts}\n"
-        f"Taux JPY/EUR : {rate}"
+        f"Taux JPY/EUR : {rate}\n"
+        f"Supplément par article : {euro(EXTRA_COST_EUR)}"
     )
 
     print(summary)
+
+    # Envoi systématique du bilan Telegram
+    send_telegram(summary)
 
 
 if __name__ == "__main__":
