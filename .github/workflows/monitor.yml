@@ -22,9 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
-       - name: Installer les dependances
-          run: pip install requests
-  
+      - name: Installer les dependances
+        run: pip install requests
+
       - name: Scanner Jolijou
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -38,3 +38,4 @@ jobs:
           git add data/state.json
           git diff --cached --quiet || git commit -m "Update product history"
           git push
+
