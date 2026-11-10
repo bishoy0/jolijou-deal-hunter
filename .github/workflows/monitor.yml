@@ -1,380 +1,47 @@
 
-import json
-import os
-import time
-from pathlib import Path
-from statistics import median
-
-import requests
-
-# ==================================================
-# CONFIGURATION JOLIJOU DEAL HUNTER V2
-# ==================================================
-
-STORE = "8ythrr-ay.myshopify.com"
-BASE_URL = f"https://{STORE}"
-
-TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-
-STATE_FILE = Path("data/state.json")
-
-# Supplément fixe par article
-EXTRA_COST_EUR = 60.00
-
-# Détection des baisses importantes
-ANOMALY_DROP_PERCENT = 20
-
-# Limite de sécurité des notifications par scan
-MAX_ALERTS_PER_RUN = 20
-
-# Simulations indicatives de frais de vente.
-# À ajuster selon ton statut, ta catégorie et ton contrat.
-PLATFORMS = {
-    "eBay": {"rate": 0.12, "fixed": 0.35},
-    "Vinted": {"rate": 0.00, "fixed": 0.00},
-    "Catawiki": {"rate": 0.125, "fixed": 3.00},
-    "Shopify": {"rate": 0.025, "fixed": 0.30},
-}
-
-# Prix de vente simulés : coût réel x ces multiplicateurs
-SALE_MULTIPLIERS = [1.30, 1.50, 2.00]
-
-SESSION = requests.Session()
-SESSION.headers.update({
-    "User-Agent": "JolijouDealHunter/2.0"
-})
-
-
-# ==================================================
-# OUTILS
-# ==================================================
-
-def send_telegram(message):
-    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-
-    response = SESSION.post(
-        url,
-        data={
-            "chat_id": CHAT_ID,
-            "text": message,
-            "disable_web_page_preview": False
-        },
-        timeout=25
-    )
-
-    response.raise_for_status()
-
-
-def load_state():
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-
-    return {"initialized": False, "products": {}}
-
-
-def save_state(data):
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-
-    STATE_FILE.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
-
-
-def get_exchange_rate():
-    """Récupère le taux JPY vers EUR."""
-
-    url = "https://api.frankfurter.app/latest"
-
-    response = SESSION.get(
-        url,
-        params={"from": "JPY", "to": "EUR"},
-        timeout=20
-    )
-
-    response.raise_for_status()
-
-    rate = response.json()["rates"]["EUR"]
-
-    if rate <= 0:
-        raise ValueError("Taux de conversion invalide.")
-
-    return float(rate)
-
-
-def euro(value):
-    return f"{value:,.2f} €".replace(",", " ").replace(".", ",")
-
-
-def calculate_cost(price_jpy, exchange_rate):
-    price_eur = price_jpy * exchange_rate
-    return price_eur + EXTRA_COST_EUR
-
-
-# ==================================================
-# SIMULATION DE RENTABILITÉ
-# ==================================================
-
-def profitability(cost):
-    results = []
-
-    for multiplier in SALE_MULTIPLIERS:
-        sale_price = cost * multiplier
-
-        for name, fees in PLATFORMS.items():
-            commission = sale_price * fees["rate"]
-            total_fees = commission + fees["fixed"]
-
-            profit = sale_price - total_fees - cost
-
-            results.append({
-                "platform": name,
-                "multiplier": multiplier,
-                "sale_price": sale_price,
-                "fees": total_fees,
-                "profit": profit
-            })
-
-    return results
-
-
-def format_profitability(cost):
-    results = profitability(cost)
-    lines = ["\n📊 SIMULATIONS DE REVENTE"]
-
-    for multiplier in SALE_MULTIPLIERS:
-        lines.append(f"\nPrix de vente cible : x{multiplier:.2f}")
-
-        for name in PLATFORMS:
-            result = next(
-                r for r in results
-                if r["platform"] == name
-                and r["multiplier"] == multiplier
-            )
-
-            lines.append(
-                f"{name} : vente {euro(result['sale_price'])}"
-                f" | bénéfice estimé {euro(result['profit'])}"
-            )
-
-    best = max(results, key=lambda x: x["profit"])
-
-    lines.append(
-        f"\n🏆 Meilleure simulation : {best['platform']}"
-        f" à x{best['multiplier']:.2f}"
-        f" ({euro(best['profit'])})"
-    )
-
-    return "\n".join(lines)
-
-
-# ==================================================
-# CATALOGUE FOURNISSEUR
-# ==================================================
-
-def scan_products():
-    products = []
-
-    for page in range(1, 41):
-        url = f"{BASE_URL}/products.json"
-
-        response = SESSION.get(
-            url,
-            params={"limit": 250, "page": page},
-            timeout=30
-        )
-
-        if response.status_code in (401, 403, 404):
-            raise Exception(
-                f"Catalogue inaccessible : HTTP {response.status_code}"
-            )
-
-        response.raise_for_status()
-
-        batch = response.json().get("products", [])
-
-        if not batch:
-            break
-
-        products.extend(batch)
-
-        if len(batch) < 250:
-            break
-
-        time.sleep(1)
-
-    return products
-
-
-# ==================================================
-# ANALYSE DES PRODUITS
-# ==================================================
-
-def main():
-    old = load_state()
-
-    print("Récupération du taux de change...")
-    exchange_rate = get_exchange_rate()
-
-    print(f"Taux actuel : 1 JPY = {exchange_rate} EUR")
-
-    print("Analyse du catalogue Jolijou...")
-    products = scan_products()
-
-    current = {}
-
-    for product in products:
-        prices = []
-
-        for variant in product.get("variants", []):
-            try:
-                price = float(variant["price"])
-
-                if price > 0:
-                    prices.append(price)
-
-            except (KeyError, TypeError, ValueError):
-                continue
-
-        if not prices:
-            continue
-
-        price_jpy = min(prices)
-        product_id = str(product["id"])
-
-        current[product_id] = {
-            "title": product.get("title", "Produit sans nom"),
-            "price_jpy": price_jpy,
-            "url": f"{BASE_URL}/products/{product['handle']}"
-        }
-
-    if not old.get("initialized"):
-        for product_id, item in current.items():
-            item["history"] = [item["price_jpy"]]
-
-        save_state({
-            "initialized": True,
-            "products": current,
-            "last_exchange_rate": exchange_rate
-        })
-
-        send_telegram(
-            "🟢 JOLIJOU DEAL HUNTER V2 CONNECTÉ !\n\n"
-            f"Produits enregistrés : {len(current)}\n"
-            f"Taux JPY/EUR : {exchange_rate}\n"
-            f"Supplément par article : {euro(EXTRA_COST_EUR)}\n\n"
-            "La surveillance est activée."
-        )
-
-        return
-
-    previous = old.get("products", {})
-    alerts = 0
-    new_count = 0
-    drops_count = 0
-    anomaly_count = 0
-
-    for product_id, item in current.items():
-
-        before = previous.get(product_id)
-
-        price_jpy = item["price_jpy"]
-        cost = calculate_cost(price_jpy, exchange_rate)
-
-        history = []
-
-        if before:
-            history = before.get("history", [])
-
-            # Compatibilité avec l'ancienne version du bot
-            old_price = before.get("price_jpy", before.get("price"))
-
-            if old_price is not None and not history:
-                history = [float(old_price)]
-
-        history = [float(x) for x in history if float(x) > 0]
-
-        reasons = []
-
-        if before is None:
-            reasons.append("🆕 NOUVEAU PRODUIT")
-            new_count += 1
-
-        elif history:
-            reference_price = history[-1]
-
-            if price_jpy < reference_price:
-                reasons.append("📉 BAISSE DE PRIX")
-                drops_count += 1
-
-                reduction = (
-                    (reference_price - price_jpy)
-                    / reference_price
-                ) * 100
-
-                if reduction >= ANOMALY_DROP_PERCENT:
-                    reasons.append(
-                        f"🚨 BAISSE IMPORTANTE : -{reduction:.1f}%"
-                    )
-                    anomaly_count += 1
-
-            # Comparaison avec l'historique récent
-            if len(history) >= 3:
-                average = median(history[-10:])
-
-                if price_jpy <= average * (
-                    1 - ANOMALY_DROP_PERCENT / 100
-                ):
-                    if not any("BAISSE IMPORTANTE" in r for r in reasons):
-                        reasons.append(
-                            "⚠️ PRIX ANORMALEMENT BAS PAR RAPPORT À SON HISTORIQUE"
-                        )
-                        anomaly_count += 1
-
-        new_history = (history + [price_jpy])[-10:]
-
-        item["history"] = new_history
-
-        if reasons and alerts < MAX_ALERTS_PER_RUN:
-            message = (
-                "🔥 JOLIJOU DEAL HUNTER V2\n\n"
-                + "\n".join(reasons)
-                + f"\n\n📦 {item['title']}"
-                + f"\n\nPrix fournisseur : {price_jpy:,.0f} ¥"
-                + f"\nPrix converti : {euro(price_jpy * exchange_rate)}"
-                + f"\nSupplément fixe : {euro(EXTRA_COST_EUR)}"
-                + f"\n💰 Coût total estimé : {euro(cost)}"
-                + f"\n\n{format_profitability(cost)}"
-                + f"\n\n🔗 {item['url']}"
-                + "\n\n⚠️ Prix de revente simulés, pas des ventes garanties."
-                + "\nFrais indicatifs, à vérifier selon ton statut."
-            )
-
-            send_telegram(message)
-            alerts += 1
-            time.sleep(0.5)
-
-    save_state({
-        "initialized": True,
-        "products": current,
-        "last_exchange_rate": exchange_rate
-    })
-
-    summary = (
-        "✅ BALAYAGE JOLIJOU TERMINÉ\n\n"
-        f"Produits analysés : {len(current)}\n"
-        f"Nouveaux produits : {new_count}\n"
-        f"Baisses de prix : {drops_count}\n"
-        f"Anomalies détectées : {anomaly_count}\n"
-        f"Alertes envoyées : {alerts}\n"
-        f"Taux JPY/EUR : {exchange_rate}\n"
-        f"Supplément fixe : {euro(EXTRA_COST_EUR)}"
-    )
-
-    print(summary)
-    send_telegram(summary)
-
-
-if __name__ == "__main__":
-    main()
+name: Jolijou Deal Hunter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+concurrency:
+  group: jolijou-deal-hunter
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dependances
+        run: pip install requests
+
+      - name: Scanner Jolijou
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Sauvegarder les produits
+        run: |
+          git config user.name "Jolijou Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/state.json
+          git diff --cached --quiet || git commit -m "Update product history"
+          git pull --rebase -X theirs origin main
+          git push origin HEAD:main
