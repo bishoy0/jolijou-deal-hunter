@@ -1,11 +1,28 @@
 {
   "initialized": true,
   "products": {
+    "15318824157554": {
+      "title": "Bally Black Tote Bags MH-91",
+      "price_jpy": 6930.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/bally-black-tote-bags-mh-91",
+      "history": [
+        6930.0
+      ]
+    },
+    "15318820454770": {
+      "title": "Dunhill Brown MH-90",
+      "price_jpy": 5940.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-brown-mh-90",
+      "history": [
+        5940.0
+      ]
+    },
     "15318816260466": {
       "title": "Dunhill Brown Handle Bags MH-89",
       "price_jpy": 4125.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-brown-handle-bags-mh-89",
       "history": [
+        4125.0,
         4125.0
       ]
     },
@@ -14,6 +31,7 @@
       "price_jpy": 6930.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-handle-bags-mh-88",
       "history": [
+        6930.0,
         6930.0
       ]
     },
@@ -22,6 +40,7 @@
       "price_jpy": 5115.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-87",
       "history": [
+        5115.0,
         5115.0
       ]
     },
@@ -30,6 +49,7 @@
       "price_jpy": 3300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-brown-small-goods-mh-86",
       "history": [
+        3300.0,
         3300.0
       ]
     },
@@ -38,6 +58,7 @@
       "price_jpy": 4125.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-shoulder-bags-mh-85",
       "history": [
+        4125.0,
         4125.0
       ]
     },
@@ -46,6 +67,7 @@
       "price_jpy": 4125.0,
       "url": "https://8ythrr-ay.myshopify.com/products/bally-red-tote-bags-mh-84",
       "history": [
+        4125.0,
         4125.0
       ]
     },
@@ -54,6 +76,7 @@
       "price_jpy": 21780.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-brown-tote-bags-mh-83",
       "history": [
+        21780.0,
         21780.0
       ]
     },
@@ -62,6 +85,7 @@
       "price_jpy": 16830.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-gray-tote-bags-mh-82",
       "history": [
+        16830.0,
         16830.0
       ]
     },
@@ -70,6 +94,7 @@
       "price_jpy": 21450.0,
       "url": "https://8ythrr-ay.myshopify.com/products/longchamp-black-tote-bags-mh-81",
       "history": [
+        21450.0,
         21450.0
       ]
     },
@@ -78,6 +103,7 @@
       "price_jpy": 19800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/longchamp-navy-handle-bags-mh-80",
       "history": [
+        19800.0,
         19800.0
       ]
     },
@@ -86,6 +112,7 @@
       "price_jpy": 21450.0,
       "url": "https://8ythrr-ay.myshopify.com/products/longchamp-navy-handle-bags-mh-79",
       "history": [
+        21450.0,
         21450.0
       ]
     },
