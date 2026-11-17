@@ -1,11 +1,140 @@
 {
   "initialized": true,
   "products": {
+    "15336742027634": {
+      "title": "Louis Vuitton Brown Travel Bags MH-23",
+      "price_jpy": 48400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-23",
+      "history": [
+        48400.0
+      ]
+    },
+    "15336739701106": {
+      "title": "Balenciaga Black Hats MH-29",
+      "price_jpy": 18700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/balenciaga-black-hats-mh-29",
+      "history": [
+        18700.0
+      ]
+    },
+    "15336738062706": {
+      "title": "Balenciaga Black Hats MH-37",
+      "price_jpy": 18700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/balenciaga-black-hats-mh-37",
+      "history": [
+        18700.0
+      ]
+    },
+    "15336727642482": {
+      "title": "Bottega Veneta Brown Pouches MH-144",
+      "price_jpy": 16335.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/bottega-veneta-brown-pouches-mh-144",
+      "history": [
+        16335.0
+      ]
+    },
+    "15336722596210": {
+      "title": "Hermes Beige Pouches MH-143",
+      "price_jpy": 16335.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-beige-pouches-mh-143",
+      "history": [
+        16335.0
+      ]
+    },
+    "15336718205298": {
+      "title": "Dunhill Black Handle Bags MH-142",
+      "price_jpy": 6050.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-handle-bags-mh-142",
+      "history": [
+        6050.0
+      ]
+    },
+    "15336716042610": {
+      "title": "Chanel Red Handle Bags MH-141",
+      "price_jpy": 106183.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-red-handle-bags-mh-141",
+      "history": [
+        106183.0
+      ]
+    },
+    "15336715125106": {
+      "title": "Prada Navy Tote Bags MH-140",
+      "price_jpy": 38500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-navy-tote-bags-mh-140",
+      "history": [
+        38500.0
+      ]
+    },
+    "15336708440434": {
+      "title": "Louis Vuitton Blue Travel Bags MH-139",
+      "price_jpy": 64603.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-blue-travel-bags-mh-139",
+      "history": [
+        64603.0
+      ]
+    },
+    "15336706998642": {
+      "title": "Burberry Black Handle Bags MH-138",
+      "price_jpy": 21538.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-black-handle-bags-mh-138",
+      "history": [
+        21538.0
+      ]
+    },
+    "15336690385266": {
+      "title": "Dior Black Shoulder Bags MH-132",
+      "price_jpy": 25245.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-black-shoulder-bags-mh-132",
+      "history": [
+        25245.0
+      ]
+    },
+    "15336689140082": {
+      "title": "Celine Brown Tote Bags MH-133",
+      "price_jpy": 11715.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-tote-bags-mh-133",
+      "history": [
+        11715.0
+      ]
+    },
+    "15336688517490": {
+      "title": "Celine Brown MH-134",
+      "price_jpy": 11715.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-mh-134",
+      "history": [
+        11715.0
+      ]
+    },
+    "15336687141234": {
+      "title": "Bally Navy Shoulder Bags MH-135",
+      "price_jpy": 1650.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/bally-navy-shoulder-bags-mh-135",
+      "history": [
+        1650.0
+      ]
+    },
+    "15336686223730": {
+      "title": "Gucci Brown MH-136",
+      "price_jpy": 10230.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-mh-136",
+      "history": [
+        10230.0
+      ]
+    },
+    "15336645263730": {
+      "title": "Longchamp Black Shoulder Bags MH-137",
+      "price_jpy": 3630.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/longchamp-black-shoulder-bags-mh-137",
+      "history": [
+        3630.0
+      ]
+    },
     "15336515731826": {
       "title": "Gucci Beige Shoulder Bags MH-131",
       "price_jpy": 25993.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-shoulder-bags-mh-131",
       "history": [
+        25993.0,
         25993.0
       ]
     },
@@ -14,6 +143,7 @@
       "price_jpy": 16830.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-green-tote-bags-mh-130",
       "history": [
+        16830.0,
         16830.0
       ]
     },
@@ -22,6 +152,7 @@
       "price_jpy": 26180.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-shoulder-bags-mh-129",
       "history": [
+        26180.0,
         26180.0
       ]
     },
@@ -30,6 +161,7 @@
       "price_jpy": 34848.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-shoulder-bags-mh-128",
       "history": [
+        34848.0,
         34848.0
       ]
     },
@@ -38,6 +170,7 @@
       "price_jpy": 39919.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-blue-shoulder-bags-mh-127",
       "history": [
+        39919.0,
         39919.0
       ]
     },
@@ -46,6 +179,7 @@
       "price_jpy": 19800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-gray-tote-bags-mh-126",
       "history": [
+        19800.0,
         19800.0,
         19800.0
       ]
@@ -56,6 +190,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-handle-bags-mh-125",
       "history": [
         42141.0,
+        42141.0,
         42141.0
       ]
     },
@@ -64,6 +199,7 @@
       "price_jpy": 30613.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-handle-bags-mh-124",
       "history": [
+        30613.0,
         30613.0,
         30613.0
       ]
@@ -74,6 +210,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/dior-brown-handle-bags-mh-123",
       "history": [
         67386.0,
+        67386.0,
         67386.0
       ]
     },
@@ -82,6 +219,7 @@
       "price_jpy": 14113.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-black-shoulder-bags-mh-122",
       "history": [
+        14113.0,
         14113.0,
         14113.0
       ]
@@ -92,6 +230,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/prada-blue-tote-bags-mh-121",
       "history": [
         42141.0,
+        42141.0,
         42141.0
       ]
     },
@@ -100,6 +239,7 @@
       "price_jpy": 18315.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-mh-120",
       "history": [
+        18315.0,
         18315.0,
         18315.0
       ]
@@ -110,6 +250,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/dior-red-shoulder-bags-mh-119",
       "history": [
         24750.0,
+        24750.0,
         24750.0
       ]
     },
@@ -118,6 +259,7 @@
       "price_jpy": 52723.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-118",
       "history": [
+        52723.0,
         52723.0,
         52723.0
       ]
@@ -128,6 +270,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-handle-bags-mh-117",
       "history": [
         42141.0,
+        42141.0,
         42141.0
       ]
     },
@@ -136,6 +279,7 @@
       "price_jpy": 49005.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-shoulder-bags-mh-116",
       "history": [
+        49005.0,
         49005.0,
         49005.0
       ]
@@ -146,6 +290,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-blue-shoulder-bags-mh-115",
       "history": [
         50314.0,
+        50314.0,
         50314.0
       ]
     },
@@ -154,6 +299,7 @@
       "price_jpy": 22275.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-black-tote-bags-mh-114",
       "history": [
+        22275.0,
         22275.0,
         22275.0
       ]
@@ -164,6 +310,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-brown-shoulder-bags-mh-113",
       "history": [
         21043.0,
+        21043.0,
         21043.0
       ]
     },
@@ -172,6 +319,7 @@
       "price_jpy": 50314.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-112",
       "history": [
+        50314.0,
         50314.0,
         50314.0
       ]
@@ -182,6 +330,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/givenchy-black-shoulder-bags-mh-111",
       "history": [
         6325.0,
+        6325.0,
         6325.0
       ]
     },
@@ -190,6 +339,7 @@
       "price_jpy": 37158.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-beige-shoulder-bags-mh-110",
       "history": [
+        37158.0,
         37158.0,
         37158.0
       ]
@@ -200,6 +350,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-shoulder-bags-mh-109",
       "history": [
         28490.0,
+        28490.0,
         28490.0
       ]
     },
@@ -208,6 +359,7 @@
       "price_jpy": 26180.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-tote-bags-mh-108",
       "history": [
+        26180.0,
         26180.0,
         26180.0
       ]
@@ -218,6 +370,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/prada-green-handle-bags-mh-107",
       "history": [
         16830.0,
+        16830.0,
         16830.0
       ]
     },
@@ -226,6 +379,7 @@
       "price_jpy": 19900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-gray-tote-bags-a-20902",
       "history": [
+        19900.0,
         19900.0,
         19900.0,
         19900.0,
@@ -240,6 +394,7 @@
         32100.0,
         32100.0,
         32100.0,
+        32100.0,
         32100.0
       ]
     },
@@ -248,6 +403,7 @@
       "price_jpy": 32100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-tote-bags-a-20901",
       "history": [
+        32100.0,
         32100.0,
         32100.0,
         32100.0,
@@ -262,6 +418,7 @@
         42800.0,
         42800.0,
         42800.0,
+        42800.0,
         42800.0
       ]
     },
@@ -270,6 +427,7 @@
       "price_jpy": 6900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-apparel-a-20943",
       "history": [
+        6900.0,
         6900.0,
         6900.0,
         6900.0,
@@ -284,6 +442,7 @@
         11500.0,
         11500.0,
         11500.0,
+        11500.0,
         11500.0
       ]
     },
@@ -292,6 +451,7 @@
       "price_jpy": 47400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-black-handle-bags-a-20917",
       "history": [
+        47400.0,
         47400.0,
         47400.0,
         47400.0,
@@ -306,6 +466,7 @@
         6900.0,
         6900.0,
         6900.0,
+        6900.0,
         6900.0
       ]
     },
@@ -314,6 +475,7 @@
       "price_jpy": 32100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-tote-bags-a-20915",
       "history": [
+        32100.0,
         32100.0,
         32100.0,
         32100.0,
@@ -328,6 +490,7 @@
         16000.0,
         16000.0,
         16000.0,
+        16000.0,
         16000.0
       ]
     },
@@ -336,6 +499,7 @@
       "price_jpy": 36700.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-red-handle-bags-a-20916",
       "history": [
+        36700.0,
         36700.0,
         36700.0,
         36700.0,
@@ -350,6 +514,7 @@
         6900.0,
         6900.0,
         6900.0,
+        6900.0,
         6900.0
       ]
     },
@@ -358,6 +523,7 @@
       "price_jpy": 9900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-gray-scarves-a-20958",
       "history": [
+        9900.0,
         9900.0,
         9900.0,
         9900.0,
@@ -372,6 +538,7 @@
         27500.0,
         27500.0,
         27500.0,
+        27500.0,
         27500.0
       ]
     },
@@ -380,6 +547,7 @@
       "price_jpy": 71800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-navy-handle-bags-a-20918",
       "history": [
+        71800.0,
         71800.0,
         71800.0,
         71800.0,
@@ -394,6 +562,7 @@
         42800.0,
         42800.0,
         42800.0,
+        42800.0,
         42800.0
       ]
     },
@@ -402,6 +571,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-yellow-scarves-a-20950",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -416,6 +586,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -424,6 +595,7 @@
       "price_jpy": 53500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-handle-bags-a-20920",
       "history": [
+        53500.0,
         53500.0,
         53500.0,
         53500.0,
@@ -438,6 +610,7 @@
         47400.0,
         47400.0,
         47400.0,
+        47400.0,
         47400.0
       ]
     },
@@ -446,6 +619,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-green-scarves-a-21020",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -460,6 +634,7 @@
         22900.0,
         22900.0,
         22900.0,
+        22900.0,
         22900.0
       ]
     },
@@ -468,6 +643,7 @@
       "price_jpy": 67200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-a-21003",
       "history": [
+        67200.0,
         67200.0,
         67200.0,
         67200.0,
@@ -484,6 +660,7 @@
         8400.0,
         8400.0,
         8400.0,
+        8400.0,
         8400.0
       ]
     },
@@ -492,6 +669,7 @@
       "price_jpy": 16000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-silver-small-goods-a-21007",
       "history": [
+        16000.0,
         16000.0,
         16000.0,
         16000.0,
@@ -508,6 +686,7 @@
         24400.0,
         24400.0,
         24400.0,
+        24400.0,
         24400.0
       ]
     },
@@ -516,6 +695,7 @@
       "price_jpy": 13000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-beige-pouches-a-21008",
       "history": [
+        13000.0,
         13000.0,
         13000.0,
         13000.0,
@@ -532,6 +712,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -540,6 +721,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21017",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -556,6 +738,7 @@
         19900.0,
         19900.0,
         19900.0,
+        19900.0,
         19900.0
       ]
     },
@@ -564,6 +747,7 @@
       "price_jpy": 73900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-black-shoulder-bags-a-21048",
       "history": [
+        73900.0,
         73900.0,
         73900.0,
         73900.0,
@@ -580,6 +764,7 @@
         13800.0,
         13800.0,
         13800.0,
+        13800.0,
         13800.0
       ]
     },
@@ -588,6 +773,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-brown-scarves-a-21025",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -604,6 +790,7 @@
         45100.0,
         45100.0,
         45100.0,
+        45100.0,
         45100.0
       ]
     },
@@ -612,6 +799,7 @@
       "price_jpy": 9900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21029",
       "history": [
+        9900.0,
         9900.0,
         9900.0,
         9900.0,
@@ -628,6 +816,7 @@
         11400.0,
         11400.0,
         11400.0,
+        11400.0,
         11400.0
       ]
     },
@@ -636,6 +825,7 @@
       "price_jpy": 8400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-gray-scarves-a-21028",
       "history": [
+        8400.0,
         8400.0,
         8400.0,
         8400.0,
@@ -652,6 +842,7 @@
         36200.0,
         36200.0,
         36200.0,
+        36200.0,
         36200.0
       ]
     },
@@ -660,6 +851,7 @@
       "price_jpy": 5300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-navy-scarves-a-21030",
       "history": [
+        5300.0,
         5300.0,
         5300.0,
         5300.0,
@@ -676,6 +868,7 @@
         24200.0,
         24200.0,
         24200.0,
+        24200.0,
         24200.0
       ]
     },
@@ -684,6 +877,7 @@
       "price_jpy": 27400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-purple-tote-bags-a-21047",
       "history": [
+        27400.0,
         27400.0,
         27400.0,
         27400.0,
@@ -700,6 +894,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -708,6 +903,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21022",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -724,6 +920,7 @@
         72300.0,
         72300.0,
         72300.0,
+        72300.0,
         72300.0
       ]
     },
@@ -732,6 +929,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21024",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -748,6 +946,7 @@
         11500.0,
         11500.0,
         11500.0,
+        11500.0,
         11500.0
       ]
     },
@@ -756,6 +955,7 @@
       "price_jpy": 15400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-gray-apparel-a-21054",
       "history": [
+        15400.0,
         15400.0,
         15400.0,
         15400.0,
@@ -772,6 +972,7 @@
         26600.0,
         26600.0,
         26600.0,
+        26600.0,
         26600.0
       ]
     },
@@ -780,6 +981,7 @@
       "price_jpy": 15400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-brooches-a-21063",
       "history": [
+        15400.0,
         15400.0,
         15400.0,
         15400.0,
@@ -796,6 +998,7 @@
         11400.0,
         11400.0,
         11400.0,
+        11400.0,
         11400.0
       ]
     },
@@ -804,6 +1007,7 @@
       "price_jpy": 9800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-gold-small-goods-a-21052",
       "history": [
+        9800.0,
         9800.0,
         9800.0,
         9800.0,
@@ -820,6 +1024,7 @@
         13800.0,
         13800.0,
         13800.0,
+        13800.0,
         13800.0
       ]
     },
@@ -828,6 +1033,7 @@
       "price_jpy": 10600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/loewe-gold-small-goods-a-21062",
       "history": [
+        10600.0,
         10600.0,
         10600.0,
         10600.0,
@@ -844,6 +1050,7 @@
         11400.0,
         11400.0,
         11400.0,
+        11400.0,
         11400.0
       ]
     },
@@ -852,6 +1059,7 @@
       "price_jpy": 79600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-beige-handle-bags-a-21050",
       "history": [
+        79600.0,
         79600.0,
         79600.0,
         79600.0,
@@ -868,6 +1076,7 @@
         51500.0,
         51500.0,
         51500.0,
+        51500.0,
         51500.0
       ]
     },
@@ -876,6 +1085,7 @@
       "price_jpy": 13800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-wallets-a-21066",
       "history": [
+        13800.0,
         13800.0,
         13800.0,
         13800.0,
@@ -892,6 +1102,7 @@
         6600.0,
         6600.0,
         6600.0,
+        6600.0,
         6600.0
       ]
     },
@@ -900,6 +1111,7 @@
       "price_jpy": 19400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-shoulder-bags-a-21067",
       "history": [
+        19400.0,
         19400.0,
         19400.0,
         19400.0,
@@ -916,6 +1128,7 @@
         15400.0,
         15400.0,
         15400.0,
+        15400.0,
         15400.0
       ]
     },
@@ -924,6 +1137,7 @@
       "price_jpy": 29000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-gold-small-goods-a-21069",
       "history": [
+        29000.0,
         29000.0,
         29000.0,
         29000.0,
@@ -940,6 +1154,7 @@
         9000.0,
         9000.0,
         9000.0,
+        9000.0,
         9000.0
       ]
     },
@@ -948,6 +1163,7 @@
       "price_jpy": 8200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-small-goods-a-21065",
       "history": [
+        8200.0,
         8200.0,
         8200.0,
         8200.0,
@@ -964,6 +1180,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -972,6 +1189,7 @@
       "price_jpy": 35400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-gold-small-goods-a-21064",
       "history": [
+        35400.0,
         35400.0,
         35400.0,
         35400.0,
@@ -988,6 +1206,7 @@
         11400.0,
         11400.0,
         11400.0,
+        11400.0,
         11400.0
       ]
     },
@@ -996,6 +1215,7 @@
       "price_jpy": 9900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-earrings-a-20935",
       "history": [
+        9900.0,
         9900.0,
         9900.0,
         9900.0,
@@ -1012,6 +1232,7 @@
         16000.0,
         16000.0,
         16000.0,
+        16000.0,
         16000.0
       ]
     },
@@ -1020,6 +1241,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-20936",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -1036,6 +1258,7 @@
         14500.0,
         14500.0,
         14500.0,
+        14500.0,
         14500.0
       ]
     },
@@ -1044,6 +1267,7 @@
       "price_jpy": 14500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-20930",
       "history": [
+        14500.0,
         14500.0,
         14500.0,
         14500.0,
@@ -1060,6 +1284,7 @@
         27300.0,
         27300.0,
         27300.0,
+        27300.0,
         27300.0
       ]
     },
@@ -1068,6 +1293,7 @@
       "price_jpy": 3800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-gold-small-goods-a-20931",
       "history": [
+        3800.0,
         3800.0,
         3800.0,
         3800.0,
@@ -1084,6 +1310,7 @@
         25700.0,
         25700.0,
         25700.0,
+        25700.0,
         25700.0
       ]
     },
@@ -1092,6 +1319,7 @@
       "price_jpy": 28900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/loewe-white-shoulder-bags-a-20977",
       "history": [
+        28900.0,
         28900.0,
         28900.0,
         28900.0,
@@ -1108,6 +1336,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -1116,6 +1345,7 @@
       "price_jpy": 41700.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-multicolor-necklaces-a-20966",
       "history": [
+        41700.0,
         41700.0,
         41700.0,
         41700.0,
@@ -1132,6 +1362,7 @@
         11500.0,
         11500.0,
         11500.0,
+        11500.0,
         11500.0
       ]
     },
@@ -1140,6 +1371,7 @@
       "price_jpy": 8400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/coach-white-shoulder-bags-a-20978",
       "history": [
+        8400.0,
         8400.0,
         8400.0,
         8400.0,
@@ -1156,6 +1388,7 @@
         33700.0,
         33700.0,
         33700.0,
+        33700.0,
         33700.0
       ]
     },
@@ -1164,6 +1397,7 @@
       "price_jpy": 14500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-multicolor-scarves-a-20974",
       "history": [
+        14500.0,
         14500.0,
         14500.0,
         14500.0,
@@ -1180,6 +1414,7 @@
         8400.0,
         8400.0,
         8400.0,
+        8400.0,
         8400.0
       ]
     },
@@ -1188,6 +1423,7 @@
       "price_jpy": 22500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-handle-bags-a-20976",
       "history": [
+        22500.0,
         22500.0,
         22500.0,
         22500.0,
@@ -1204,6 +1440,7 @@
         11500.0,
         11500.0,
         11500.0,
+        11500.0,
         11500.0
       ]
     },
@@ -1212,6 +1449,7 @@
       "price_jpy": 16000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-gold-necklaces-a-20963",
       "history": [
+        16000.0,
         16000.0,
         16000.0,
         16000.0,
@@ -1228,6 +1466,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -1236,6 +1475,7 @@
       "price_jpy": 13000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-scarves-a-20975",
       "history": [
+        13000.0,
         13000.0,
         13000.0,
         13000.0,
@@ -1252,6 +1492,7 @@
         28900.0,
         28900.0,
         28900.0,
+        28900.0,
         28900.0
       ]
     },
@@ -1260,6 +1501,7 @@
       "price_jpy": 14500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-pink-scarves-a-20971",
       "history": [
+        14500.0,
         14500.0,
         14500.0,
         14500.0,
@@ -1276,6 +1518,7 @@
         32100.0,
         32100.0,
         32100.0,
+        32100.0,
         32100.0
       ]
     },
@@ -1284,6 +1527,7 @@
       "price_jpy": 30500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-gray-scarves-a-20964",
       "history": [
+        30500.0,
         30500.0,
         30500.0,
         30500.0,
@@ -1300,6 +1544,7 @@
         35300.0,
         35300.0,
         35300.0,
+        35300.0,
         35300.0
       ]
     },
@@ -1308,6 +1553,7 @@
       "price_jpy": 22500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-black-small-goods-a-20960",
       "history": [
+        22500.0,
         22500.0,
         22500.0,
         22500.0,
@@ -1324,6 +1570,7 @@
         6900.0,
         6900.0,
         6900.0,
+        6900.0,
         6900.0
       ]
     },
@@ -1332,6 +1579,7 @@
       "price_jpy": 38200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-backpacks-a-20996",
       "history": [
+        38200.0,
         38200.0,
         38200.0,
         38200.0,
@@ -1348,6 +1596,7 @@
         47400.0,
         47400.0,
         47400.0,
+        47400.0,
         47400.0
       ]
     },
@@ -1356,6 +1605,7 @@
       "price_jpy": 32100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20994",
       "history": [
+        32100.0,
         32100.0,
         32100.0,
         32100.0,
@@ -1372,6 +1622,7 @@
         19900.0,
         19900.0,
         19900.0,
+        19900.0,
         19900.0
       ]
     },
@@ -1380,6 +1631,7 @@
       "price_jpy": 8400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/coach-black-shoulder-bags-a-20980",
       "history": [
+        8400.0,
         8400.0,
         8400.0,
         8400.0,
@@ -1396,6 +1648,7 @@
         8400.0,
         8400.0,
         8400.0,
+        8400.0,
         8400.0
       ]
     },
@@ -1404,6 +1657,7 @@
       "price_jpy": 47400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-navy-handle-bags-a-20995",
       "history": [
+        47400.0,
         47400.0,
         47400.0,
         47400.0,
@@ -1420,6 +1674,7 @@
         8400.0,
         8400.0,
         8400.0,
+        8400.0,
         8400.0
       ]
     },
@@ -1428,6 +1683,7 @@
       "price_jpy": 30600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-handle-bags-a-20983",
       "history": [
+        30600.0,
         30600.0,
         30600.0,
         30600.0,
@@ -1444,6 +1700,7 @@
         47400.0,
         47400.0,
         47400.0,
+        47400.0,
         47400.0
       ]
     },
@@ -1452,6 +1709,7 @@
       "price_jpy": 51900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20992",
       "history": [
+        51900.0,
         51900.0,
         51900.0,
         51900.0,
@@ -1468,6 +1726,7 @@
         6900.0,
         6900.0,
         6900.0,
+        6900.0,
         6900.0
       ]
     },
@@ -1476,6 +1735,7 @@
       "price_jpy": 47400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/fendi-brown-tote-bags-a-20991",
       "history": [
+        47400.0,
         47400.0,
         47400.0,
         47400.0,
@@ -1492,6 +1752,7 @@
         5300.0,
         5300.0,
         5300.0,
+        5300.0,
         5300.0
       ]
     },
@@ -1500,6 +1761,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-green-scarves-a-21013",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -1516,6 +1778,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -1524,6 +1787,7 @@
       "price_jpy": 22900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-red-scarves-a-21014",
       "history": [
+        22900.0,
         22900.0,
         22900.0,
         22900.0,
@@ -1540,6 +1804,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -1548,6 +1813,7 @@
       "price_jpy": 18300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/loewe-green-wallets-a-21011",
       "history": [
+        18300.0,
         18300.0,
         18300.0,
         18300.0,
@@ -1564,6 +1830,7 @@
         11500.0,
         11500.0,
         11500.0,
+        11500.0,
         11500.0
       ]
     },
@@ -1572,6 +1839,7 @@
       "price_jpy": 9900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-multicolor-scarves-a-21018",
       "history": [
+        9900.0,
         9900.0,
         9900.0,
         9900.0,
@@ -1588,6 +1856,7 @@
         48900.0,
         48900.0,
         48900.0,
+        48900.0,
         48900.0
       ]
     },
@@ -1596,6 +1865,7 @@
       "price_jpy": 57900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20857",
       "history": [
+        57900.0,
         57900.0,
         57900.0,
         57900.0,
@@ -1612,6 +1882,7 @@
         12200.0,
         12200.0,
         12200.0,
+        12200.0,
         12200.0
       ]
     },
@@ -1620,6 +1891,7 @@
       "price_jpy": 21000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/versace-gold-small-goods-a-20850",
       "history": [
+        21000.0,
         21000.0,
         21000.0,
         21000.0,
@@ -1636,6 +1908,7 @@
         19400.0,
         19400.0,
         19400.0,
+        19400.0,
         19400.0
       ]
     },
@@ -1644,6 +1917,7 @@
       "price_jpy": 32200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-black-tote-bags-b-20865",
       "history": [
+        32200.0,
         32200.0,
         32200.0,
         32200.0,
@@ -1660,6 +1934,7 @@
         23500.0,
         23500.0,
         23500.0,
+        23500.0,
         23500.0
       ]
     },
@@ -1668,6 +1943,7 @@
       "price_jpy": 5600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/other-red-shoulder-bags-b-20867",
       "history": [
+        5600.0,
         5600.0,
         5600.0,
         5600.0,
@@ -1684,6 +1960,7 @@
         72400.0,
         72400.0,
         72400.0,
+        72400.0,
         72400.0
       ]
     },
@@ -1692,6 +1969,7 @@
       "price_jpy": 82800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-navy-shoulder-bags-a-20878",
       "history": [
+        82800.0,
         82800.0,
         82800.0,
         82800.0,
@@ -1708,6 +1986,7 @@
         134100.0,
         134100.0,
         134100.0,
+        134100.0,
         134100.0
       ]
     },
@@ -1716,6 +1995,7 @@
       "price_jpy": 21400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-black-tote-bags-a-20862",
       "history": [
+        21400.0,
         21400.0,
         21400.0,
         21400.0,
@@ -1732,6 +2012,7 @@
         68300.0,
         68300.0,
         68300.0,
+        68300.0,
         68300.0
       ]
     },
@@ -1740,6 +2021,7 @@
       "price_jpy": 37100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-tote-bags-a-20876",
       "history": [
+        37100.0,
         37100.0,
         37100.0,
         37100.0,
@@ -1756,6 +2038,7 @@
         45800.0,
         45800.0,
         45800.0,
+        45800.0,
         45800.0
       ]
     },
@@ -1764,6 +2047,7 @@
       "price_jpy": 55500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20874",
       "history": [
+        55500.0,
         55500.0,
         55500.0,
         55500.0,
@@ -1780,6 +2064,7 @@
         21200.0,
         21200.0,
         21200.0,
+        21200.0,
         21200.0
       ]
     },
@@ -1788,6 +2073,7 @@
       "price_jpy": 64200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/goyard-red-small-goods-a-20864",
       "history": [
+        64200.0,
         64200.0,
         64200.0,
         64200.0,
@@ -1804,6 +2090,7 @@
         14700.0,
         14700.0,
         14700.0,
+        14700.0,
         14700.0
       ]
     },
@@ -1812,6 +2099,7 @@
       "price_jpy": 57100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-black-tote-bags-b-20866",
       "history": [
+        57100.0,
         57100.0,
         57100.0,
         57100.0,
@@ -1828,6 +2116,7 @@
         56500.0,
         56500.0,
         56500.0,
+        56500.0,
         56500.0
       ]
     },
@@ -1836,6 +2125,7 @@
       "price_jpy": 21400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-black-small-goods-a-20863",
       "history": [
+        21400.0,
         21400.0,
         21400.0,
         21400.0,
@@ -1852,6 +2142,7 @@
         49900.0,
         49900.0,
         49900.0,
+        49900.0,
         49900.0
       ]
     },
@@ -1860,6 +2151,7 @@
       "price_jpy": 56300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-gold-earrings-a-20898",
       "history": [
+        56300.0,
         56300.0,
         56300.0,
         56300.0,
@@ -1876,6 +2168,7 @@
         27400.0,
         27400.0,
         27400.0,
+        27400.0,
         27400.0
       ]
     },
@@ -1884,6 +2177,7 @@
       "price_jpy": 54700.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-handle-bags-a-20882",
       "history": [
+        54700.0,
         54700.0,
         54700.0,
         54700.0,
@@ -1900,6 +2194,7 @@
         72400.0,
         72400.0,
         72400.0,
+        72400.0,
         72400.0
       ]
     },
@@ -1908,6 +2203,7 @@
       "price_jpy": 29000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-pink-wallets-a-20892",
       "history": [
+        29000.0,
         29000.0,
         29000.0,
         29000.0,
@@ -1924,6 +2220,7 @@
         28200.0,
         28200.0,
         28200.0,
+        28200.0,
         28200.0
       ]
     },
@@ -1932,6 +2229,7 @@
       "price_jpy": 53100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20880",
       "history": [
+        53100.0,
         53100.0,
         53100.0,
         53100.0,
@@ -1948,6 +2246,7 @@
         48300.0,
         48300.0,
         48300.0,
+        48300.0,
         48300.0
       ]
     },
@@ -1956,6 +2255,7 @@
       "price_jpy": 32300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20893",
       "history": [
+        32300.0,
         32300.0,
         32300.0,
         32300.0,
@@ -1972,6 +2272,7 @@
         13800.0,
         13800.0,
         13800.0,
+        13800.0,
         13800.0
       ]
     },
@@ -1980,6 +2281,7 @@
       "price_jpy": 30600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-wallets-a-20896",
       "history": [
+        30600.0,
         30600.0,
         30600.0,
         30600.0,
@@ -1996,6 +2298,7 @@
         27400.0,
         27400.0,
         27400.0,
+        27400.0,
         27400.0
       ]
     },
@@ -2004,6 +2307,7 @@
       "price_jpy": 225400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-shoulder-bags-a-20884",
       "history": [
+        225400.0,
         225400.0,
         225400.0,
         225400.0,
@@ -2020,6 +2324,7 @@
         72400.0,
         72400.0,
         72400.0,
+        72400.0,
         72400.0
       ]
     },
@@ -2028,6 +2333,7 @@
       "price_jpy": 45900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-wallets-a-20889",
       "history": [
+        45900.0,
         45900.0,
         45900.0,
         45900.0,
@@ -2044,6 +2350,7 @@
         58700.0,
         58700.0,
         58700.0,
+        58700.0,
         58700.0
       ]
     },
@@ -2052,6 +2359,7 @@
       "price_jpy": 25000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-wallets-a-20890",
       "history": [
+        25000.0,
         25000.0,
         25000.0,
         25000.0,
@@ -2068,6 +2376,7 @@
         51500.0,
         51500.0,
         51500.0,
+        51500.0,
         51500.0
       ]
     },
@@ -2076,6 +2385,7 @@
       "price_jpy": 26000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-pink-small-goods-a-20908",
       "history": [
+        26000.0,
         26000.0,
         26000.0,
         26000.0,
@@ -2092,6 +2402,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -2100,6 +2411,7 @@
       "price_jpy": 13000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-multicolor-scarves-a-20949",
       "history": [
+        13000.0,
         13000.0,
         13000.0,
         13000.0,
@@ -2116,6 +2428,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -2124,6 +2437,7 @@
       "price_jpy": 13000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-scarves-a-20945",
       "history": [
+        13000.0,
         13000.0,
         13000.0,
         13000.0,
@@ -2140,6 +2454,7 @@
         7000.0,
         7000.0,
         7000.0,
+        7000.0,
         7000.0
       ]
     },
@@ -2148,6 +2463,7 @@
       "price_jpy": 18300.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-purple-scarves-a-20938",
       "history": [
+        18300.0,
         18300.0,
         18300.0,
         18300.0,
@@ -2164,6 +2480,7 @@
         9900.0,
         9900.0,
         9900.0,
+        9900.0,
         9900.0
       ]
     },
@@ -2172,6 +2489,7 @@
       "price_jpy": 11500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-20946",
       "history": [
+        11500.0,
         11500.0,
         11500.0,
         11500.0,
@@ -2188,6 +2506,7 @@
         8400.0,
         8400.0,
         8400.0,
+        8400.0,
         8400.0
       ]
     },
@@ -2196,6 +2515,7 @@
       "price_jpy": 80000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/navy-b-20571",
       "history": [
+        80000.0,
         80000.0,
         80000.0,
         80000.0,
@@ -2212,6 +2532,7 @@
         30600.0,
         30600.0,
         30600.0,
+        30600.0,
         30600.0
       ]
     },
@@ -2220,6 +2541,7 @@
       "price_jpy": 49400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20569",
       "history": [
+        49400.0,
         49400.0,
         49400.0,
         49400.0,
@@ -2236,6 +2558,7 @@
         18800.0,
         18800.0,
         18800.0,
+        18800.0,
         18800.0
       ]
     },
@@ -2244,6 +2567,7 @@
       "price_jpy": 62400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gold-b-20585",
       "history": [
+        62400.0,
         62400.0,
         62400.0,
         62400.0,
@@ -2260,6 +2584,7 @@
         36500.0,
         36500.0,
         36500.0,
+        36500.0,
         36500.0
       ]
     },
@@ -2268,6 +2593,7 @@
       "price_jpy": 94100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20577",
       "history": [
+        94100.0,
         94100.0,
         94100.0,
         94100.0,
@@ -2284,6 +2610,7 @@
         38800.0,
         38800.0,
         38800.0,
+        38800.0,
         38800.0
       ]
     },
@@ -2292,6 +2619,7 @@
       "price_jpy": 44700.0,
       "url": "https://8ythrr-ay.myshopify.com/products/black-b-20580",
       "history": [
+        44700.0,
         44700.0,
         44700.0,
         44700.0,
@@ -2308,6 +2636,7 @@
         16500.0,
         16500.0,
         16500.0,
+        16500.0,
         16500.0
       ]
     },
@@ -2316,6 +2645,7 @@
       "price_jpy": 10600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20587",
       "history": [
+        10600.0,
         10600.0,
         10600.0,
         10600.0,
@@ -2332,6 +2662,7 @@
         11000.0,
         11000.0,
         11000.0,
+        11000.0,
         11000.0
       ]
     },
@@ -2340,6 +2671,7 @@
       "price_jpy": 47100.0,
       "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20572",
       "history": [
+        47100.0,
         47100.0,
         47100.0,
         47100.0,
@@ -2356,6 +2688,7 @@
         10400.0,
         10400.0,
         10400.0,
+        10400.0,
         10400.0
       ]
     },
@@ -2364,6 +2697,7 @@
       "price_jpy": 20000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/pink-b-20578",
       "history": [
+        20000.0,
         20000.0,
         20000.0,
         20000.0,
@@ -2380,6 +2714,7 @@
         37600.0,
         37600.0,
         37600.0,
+        37600.0,
         37600.0
       ]
     },
@@ -2388,6 +2723,7 @@
       "price_jpy": 23500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/black-b-20597",
       "history": [
+        23500.0,
         23500.0,
         23500.0,
         23500.0,
@@ -2404,6 +2740,7 @@
         38800.0,
         38800.0,
         38800.0,
+        38800.0,
         38800.0
       ]
     },
@@ -2412,6 +2749,7 @@
       "price_jpy": 72900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20596",
       "history": [
+        72900.0,
         72900.0,
         72900.0,
         72900.0,
@@ -2428,6 +2766,7 @@
         7600.0,
         7600.0,
         7600.0,
+        7600.0,
         7600.0
       ]
     },
@@ -2436,6 +2775,7 @@
       "price_jpy": 25900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/black-b-20598",
       "history": [
+        25900.0,
         25900.0,
         25900.0,
         25900.0,
@@ -2452,6 +2792,7 @@
         28200.0,
         28200.0,
         28200.0,
+        28200.0,
         28200.0
       ]
     },
@@ -2460,6 +2801,7 @@
       "price_jpy": 20000.0,
       "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20595",
       "history": [
+        20000.0,
         20000.0,
         20000.0,
         20000.0,
@@ -2476,6 +2818,7 @@
         37100.0,
         37100.0,
         37100.0,
+        37100.0,
         37100.0
       ]
     },
@@ -2484,6 +2827,7 @@
       "price_jpy": 24200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-small-goods-a-20839",
       "history": [
+        24200.0,
         24200.0,
         24200.0,
         24200.0,
@@ -2500,6 +2844,7 @@
         49400.0,
         49400.0,
         49400.0,
+        49400.0,
         49400.0
       ]
     },
@@ -2508,6 +2853,7 @@
       "price_jpy": 12200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-multicolor-scarves-a-20837",
       "history": [
+        12200.0,
         12200.0,
         12200.0,
         12200.0,
@@ -2524,6 +2870,7 @@
         6600.0,
         6600.0,
         6600.0,
+        6600.0,
         6600.0
       ]
     },
@@ -2532,6 +2879,7 @@
       "price_jpy": 38800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/black-b-20602",
       "history": [
+        38800.0,
         38800.0,
         38800.0,
         38800.0,
@@ -2548,6 +2896,7 @@
         6500.0,
         6500.0,
         6500.0,
+        6500.0,
         6500.0
       ]
     },
@@ -2556,6 +2905,7 @@
       "price_jpy": 57900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20835",
       "history": [
+        57900.0,
         57900.0,
         57900.0,
         57900.0,
@@ -2572,6 +2922,7 @@
         65900.0,
         65900.0,
         65900.0,
+        65900.0,
         65900.0
       ]
     },
@@ -2580,6 +2931,7 @@
       "price_jpy": 70600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/black-b-20592",
       "history": [
+        70600.0,
         70600.0,
         70600.0,
         70600.0,
@@ -2596,6 +2948,7 @@
         40000.0,
         40000.0,
         40000.0,
+        40000.0,
         40000.0
       ]
     },
@@ -2604,6 +2957,7 @@
       "price_jpy": 11400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-white-shoes-a-20836",
       "history": [
+        11400.0,
         11400.0,
         11400.0,
         11400.0,
@@ -2620,6 +2974,7 @@
         49900.0,
         49900.0,
         49900.0,
+        49900.0,
         49900.0
       ]
     },
@@ -2628,6 +2983,7 @@
       "price_jpy": 55500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20844",
       "history": [
+        55500.0,
         55500.0,
         55500.0,
         55500.0,
@@ -2644,6 +3000,7 @@
         41100.0,
         41100.0,
         41100.0,
+        41100.0,
         41100.0
       ]
     },
@@ -2652,6 +3009,7 @@
       "price_jpy": 11400.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-beige-scarves-a-20849",
       "history": [
+        11400.0,
         11400.0,
         11400.0,
         11400.0,
@@ -2668,6 +3026,7 @@
         96300.0,
         96300.0,
         96300.0,
+        96300.0,
         96300.0
       ]
     },
@@ -2676,6 +3035,7 @@
       "price_jpy": 99600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-handle-bags-a-20843",
       "history": [
+        99600.0,
         99600.0,
         99600.0,
         99600.0,
@@ -2692,6 +3052,7 @@
         72400.0,
         72400.0,
         72400.0,
+        72400.0,
         72400.0
       ]
     },
@@ -2700,6 +3061,7 @@
       "price_jpy": 9900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/coach-bordeaux-handle-bags-a-20859",
       "history": [
+        9900.0,
         9900.0,
         9900.0,
         9900.0,
@@ -2716,6 +3078,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -2724,6 +3087,7 @@
       "price_jpy": 12200.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-beige-apparel-a-20847",
       "history": [
+        12200.0,
         12200.0,
         12200.0,
         12200.0,
@@ -2740,6 +3104,7 @@
         13000.0,
         13000.0,
         13000.0,
+        13000.0,
         13000.0
       ]
     },
@@ -2748,6 +3113,7 @@
       "price_jpy": 21800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-pouches-a-20846",
       "history": [
+        21800.0,
         21800.0,
         21800.0,
         21800.0,
@@ -2764,6 +3130,7 @@
         9800.0,
         9800.0,
         9800.0,
+        9800.0,
         9800.0
       ]
     },
@@ -2772,6 +3139,7 @@
       "price_jpy": 9800.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-multicolor-scarves-a-20840",
       "history": [
+        9800.0,
         9800.0,
         9800.0,
         9800.0,
@@ -2788,6 +3156,7 @@
         13800.0,
         13800.0,
         13800.0,
+        13800.0,
         13800.0
       ]
     },
@@ -2796,6 +3165,7 @@
       "price_jpy": 46783.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-red-handle-bags-mh-106",
       "history": [
+        46783.0,
         46783.0,
         46783.0,
         46783.0,
@@ -2812,6 +3182,7 @@
         24750.0,
         24750.0,
         24750.0,
+        24750.0,
         24750.0
       ]
     },
@@ -2820,6 +3191,7 @@
       "price_jpy": 32533.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-tote-bags-mh-104",
       "history": [
+        32533.0,
         32533.0,
         32533.0,
         32533.0,
@@ -2838,6 +3210,7 @@
         44922.0,
         44922.0,
         44922.0,
+        44922.0,
         44922.0
       ]
     },
@@ -2846,6 +3219,7 @@
       "price_jpy": 46778.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-gray-tote-bags-mh-102",
       "history": [
+        46778.0,
         46778.0,
         46778.0,
         46778.0,
@@ -2864,6 +3238,7 @@
         33110.0,
         33110.0,
         33110.0,
+        33110.0,
         33110.0
       ]
     },
@@ -2872,6 +3247,7 @@
       "price_jpy": 29838.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-pouches-mh-100",
       "history": [
+        29838.0,
         29838.0,
         29838.0,
         29838.0,
@@ -2890,6 +3266,7 @@
         40838.0,
         40838.0,
         40838.0,
+        40838.0,
         40838.0
       ]
     },
@@ -2898,6 +3275,7 @@
       "price_jpy": 16335.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-mh-98",
       "history": [
+        16335.0,
         16335.0,
         16335.0,
         16335.0,
@@ -2916,6 +3294,7 @@
         16335.0,
         16335.0,
         16335.0,
+        16335.0,
         16335.0
       ]
     },
@@ -2924,6 +3303,7 @@
       "price_jpy": 22275.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-shoulder-bags-mh-96",
       "history": [
+        22275.0,
         22275.0,
         22275.0,
         22275.0,
@@ -2942,6 +3322,7 @@
         31763.0,
         31763.0,
         31763.0,
+        31763.0,
         31763.0
       ]
     },
@@ -2950,6 +3331,7 @@
       "price_jpy": 24750.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-beige-tote-bags-mh-94",
       "history": [
+        24750.0,
         24750.0,
         24750.0,
         24750.0,
@@ -2968,6 +3350,7 @@
         38500.0,
         38500.0,
         38500.0,
+        38500.0,
         38500.0
       ]
     },
@@ -2976,6 +3359,7 @@
       "price_jpy": 19305.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-orange-pouches-mh-92",
       "history": [
+        19305.0,
         19305.0,
         19305.0,
         19305.0,
