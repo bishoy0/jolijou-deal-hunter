@@ -1,11 +1,1580 @@
 {
   "initialized": true,
   "products": {
+    "15335704920434": {
+      "title": "Louis Vuitton Brown Travel Bags A-21003",
+      "price_jpy": 67200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-a-21003",
+      "history": [
+        67200.0
+      ]
+    },
+    "15335704854898": {
+      "title": "Coach Navy Handle Bags A-21001",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-navy-handle-bags-a-21001",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335704789362": {
+      "title": "Fendi Silver Small goods A-21007",
+      "price_jpy": 16000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-silver-small-goods-a-21007",
+      "history": [
+        16000.0
+      ]
+    },
+    "15335704756594": {
+      "title": "Prada Black Tote Bags A-21002",
+      "price_jpy": 24400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-21002",
+      "history": [
+        24400.0
+      ]
+    },
+    "15335704691058": {
+      "title": "Celine Beige Pouches A-21008",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-beige-pouches-a-21008",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335704658290": {
+      "title": "Burberry Beige Scarves A-21015",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21015",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335704625522": {
+      "title": "Burberry Beige Scarves A-21017",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21017",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335699808626": {
+      "title": "Louis Vuitton Orange Scarves A-21021",
+      "price_jpy": 19900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-orange-scarves-a-21021",
+      "history": [
+        19900.0
+      ]
+    },
+    "15335699710322": {
+      "title": "Saint Laurent Black Shoulder Bags A-21048",
+      "price_jpy": 73900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-black-shoulder-bags-a-21048",
+      "history": [
+        73900.0
+      ]
+    },
+    "15335699513714": {
+      "title": "Louis Vuitton Red Wallets A-21046",
+      "price_jpy": 13800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-red-wallets-a-21046",
+      "history": [
+        13800.0
+      ]
+    },
+    "15335699480946": {
+      "title": "Dior Brown Scarves A-21025",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-brown-scarves-a-21025",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335699448178": {
+      "title": "Loewe Beige Tote Bags A-21044",
+      "price_jpy": 45100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/loewe-beige-tote-bags-a-21044",
+      "history": [
+        45100.0
+      ]
+    },
+    "15335699382642": {
+      "title": "Burberry Beige Scarves A-21029",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21029",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335699349874": {
+      "title": "Burberry Green Scarves A-21043",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-green-scarves-a-21043",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335699317106": {
+      "title": "Burberry Gray Scarves A-21028",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-gray-scarves-a-21028",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335699284338": {
+      "title": "Celine Brown Handle Bags A-21045",
+      "price_jpy": 36200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-handle-bags-a-21045",
+      "history": [
+        36200.0
+      ]
+    },
+    "15335699251570": {
+      "title": "Burberry Navy Scarves A-21030",
+      "price_jpy": 5300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-navy-scarves-a-21030",
+      "history": [
+        5300.0
+      ]
+    },
+    "15335699218802": {
+      "title": "Hermes Multicolor Scarves A-21042",
+      "price_jpy": 24200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-multicolor-scarves-a-21042",
+      "history": [
+        24200.0
+      ]
+    },
+    "15335699186034": {
+      "title": "Saint Laurent Purple Tote Bags A-21047",
+      "price_jpy": 27400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-purple-tote-bags-a-21047",
+      "history": [
+        27400.0
+      ]
+    },
+    "15335699153266": {
+      "title": "Celine Red Scarves A-21026",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-red-scarves-a-21026",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335699120498": {
+      "title": "Burberry Beige Scarves A-21022",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21022",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335699087730": {
+      "title": "Fendi Green Handle Bags A-21049",
+      "price_jpy": 72300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-green-handle-bags-a-21049",
+      "history": [
+        72300.0
+      ]
+    },
+    "15335699054962": {
+      "title": "Burberry Beige Scarves A-21024",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21024",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335699022194": {
+      "title": "Burberry Beige Scarves A-21027",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21027",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335697056114": {
+      "title": "Dior Gray Apparel A-21054",
+      "price_jpy": 15400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-gray-apparel-a-21054",
+      "history": [
+        15400.0
+      ]
+    },
+    "15335697023346": {
+      "title": "Ferragamo Pink Tote Bags A-21051",
+      "price_jpy": 26600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-pink-tote-bags-a-21051",
+      "history": [
+        26600.0
+      ]
+    },
+    "15335696990578": {
+      "title": "Louis Vuitton Brown Brooches A-21063",
+      "price_jpy": 15400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-brooches-a-21063",
+      "history": [
+        15400.0
+      ]
+    },
+    "15335696957810": {
+      "title": "Burberry Beige Scarves A-21057",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21057",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335696925042": {
+      "title": "Gucci Gold Small goods A-21052",
+      "price_jpy": 9800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-gold-small-goods-a-21052",
+      "history": [
+        9800.0
+      ]
+    },
+    "15335696892274": {
+      "title": "Burberry Gray Apparel A-21056",
+      "price_jpy": 13800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-gray-apparel-a-21056",
+      "history": [
+        13800.0
+      ]
+    },
+    "15335696859506": {
+      "title": "Loewe Gold Small goods A-21062",
+      "price_jpy": 10600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/loewe-gold-small-goods-a-21062",
+      "history": [
+        10600.0
+      ]
+    },
+    "15335696826738": {
+      "title": "Burberry Beige Scarves A-21058",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-21058",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335696793970": {
+      "title": "Hermes Beige Handle Bags A-21050",
+      "price_jpy": 79600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-beige-handle-bags-a-21050",
+      "history": [
+        79600.0
+      ]
+    },
+    "15335696761202": {
+      "title": "Gucci Black Shoulder Bags A-21060",
+      "price_jpy": 51500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-black-shoulder-bags-a-21060",
+      "history": [
+        51500.0
+      ]
+    },
+    "15335696728434": {
+      "title": "Fendi Black Wallets A-21066",
+      "price_jpy": 13800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-wallets-a-21066",
+      "history": [
+        13800.0
+      ]
+    },
+    "15335696695666": {
+      "title": "Versace Bordeaux Scarves A-21059",
+      "price_jpy": 6600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/versace-bordeaux-scarves-a-21059",
+      "history": [
+        6600.0
+      ]
+    },
+    "15335696662898": {
+      "title": "Fendi Black Shoulder Bags A-21067",
+      "price_jpy": 19400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-shoulder-bags-a-21067",
+      "history": [
+        19400.0
+      ]
+    },
+    "15335696630130": {
+      "title": "Burberry Beige Apparel A-21055",
+      "price_jpy": 15400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-apparel-a-21055",
+      "history": [
+        15400.0
+      ]
+    },
+    "15335696597362": {
+      "title": "Louis Vuitton Gold Small goods A-21069",
+      "price_jpy": 29000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-gold-small-goods-a-21069",
+      "history": [
+        29000.0
+      ]
+    },
+    "15335696564594": {
+      "title": "Saint Laurent Multicolor Scarves A-21068",
+      "price_jpy": 9000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-multicolor-scarves-a-21068",
+      "history": [
+        9000.0
+      ]
+    },
+    "15335696531826": {
+      "title": "Fendi Black Small goods A-21065",
+      "price_jpy": 8200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-small-goods-a-21065",
+      "history": [
+        8200.0
+      ]
+    },
+    "15335696499058": {
+      "title": "Burberry Beige Apparel A-21053",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-apparel-a-21053",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335696466290": {
+      "title": "Chanel Gold Small goods A-21064",
+      "price_jpy": 35400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-gold-small-goods-a-21064",
+      "history": [
+        35400.0
+      ]
+    },
+    "15335696433522": {
+      "title": "Versace Gold Earrings A-21061",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/versace-gold-earrings-a-21061",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335711277426": {
+      "title": "Ferragamo Gold Earrings A-20935",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-earrings-a-20935",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335711244658": {
+      "title": "Versace Gold Earrings A-20928",
+      "price_jpy": 16000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/versace-gold-earrings-a-20928",
+      "history": [
+        16000.0
+      ]
+    },
+    "15335711211890": {
+      "title": "Burberry Beige Scarves A-20936",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-20936",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335711179122": {
+      "title": "Versace Gold Earrings A-20927",
+      "price_jpy": 14500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/versace-gold-earrings-a-20927",
+      "history": [
+        14500.0
+      ]
+    },
+    "15335711113586": {
+      "title": "Ferragamo Gold Small goods A-20930",
+      "price_jpy": 14500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-20930",
+      "history": [
+        14500.0
+      ]
+    },
+    "15335711080818": {
+      "title": "Burberry Blue Handle Bags A-20959",
+      "price_jpy": 27300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-blue-handle-bags-a-20959",
+      "history": [
+        27300.0
+      ]
+    },
+    "15335711048050": {
+      "title": "Dior Gold Small goods A-20931",
+      "price_jpy": 3800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-gold-small-goods-a-20931",
+      "history": [
+        3800.0
+      ]
+    },
+    "15335709933938": {
+      "title": "Chanel Yellow Wallets A-20961",
+      "price_jpy": 25700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-yellow-wallets-a-20961",
+      "history": [
+        25700.0
+      ]
+    },
+    "15335709901170": {
+      "title": "Loewe White Shoulder Bags A-20977",
+      "price_jpy": 28900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/loewe-white-shoulder-bags-a-20977",
+      "history": [
+        28900.0
+      ]
+    },
+    "15335709868402": {
+      "title": "Burberry Beige Scarves A-20969",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-20969",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335709802866": {
+      "title": "Louis Vuitton Multicolor Necklaces A-20966",
+      "price_jpy": 41700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-multicolor-necklaces-a-20966",
+      "history": [
+        41700.0
+      ]
+    },
+    "15335709770098": {
+      "title": "Dior Pink Small goods A-20972",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-pink-small-goods-a-20972",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335709737330": {
+      "title": "Coach White Shoulder Bags A-20978",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-white-shoulder-bags-a-20978",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335709704562": {
+      "title": "Hermes Brown Small goods A-20962",
+      "price_jpy": 33700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-brown-small-goods-a-20962",
+      "history": [
+        33700.0
+      ]
+    },
+    "15335709671794": {
+      "title": "Dior Multicolor Scarves A-20974",
+      "price_jpy": 14500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-multicolor-scarves-a-20974",
+      "history": [
+        14500.0
+      ]
+    },
+    "15335709639026": {
+      "title": "Burberry Black Scarves A-20970",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-black-scarves-a-20970",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335709606258": {
+      "title": "Fendi Black Handle Bags A-20976",
+      "price_jpy": 22500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-handle-bags-a-20976",
+      "history": [
+        22500.0
+      ]
+    },
+    "15335709573490": {
+      "title": "Burberry Multicolor Scarves A-20968",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-multicolor-scarves-a-20968",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335709540722": {
+      "title": "Dior Gold Necklaces A-20963",
+      "price_jpy": 16000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-gold-necklaces-a-20963",
+      "history": [
+        16000.0
+      ]
+    },
+    "15335709507954": {
+      "title": "Louis Vuitton Brown Small goods A-20967",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-small-goods-a-20967",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335709475186": {
+      "title": "Fendi Black Scarves A-20975",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-scarves-a-20975",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335709409650": {
+      "title": "Dior Black Hats A-20973",
+      "price_jpy": 28900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-black-hats-a-20973",
+      "history": [
+        28900.0
+      ]
+    },
+    "15335709376882": {
+      "title": "Dior Pink Scarves A-20971",
+      "price_jpy": 14500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-pink-scarves-a-20971",
+      "history": [
+        14500.0
+      ]
+    },
+    "15335709311346": {
+      "title": "Prada Black Shoulder Bags A-20979",
+      "price_jpy": 32100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20979",
+      "history": [
+        32100.0
+      ]
+    },
+    "15335709278578": {
+      "title": "Louis Vuitton Gray Scarves A-20964",
+      "price_jpy": 30500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-gray-scarves-a-20964",
+      "history": [
+        30500.0
+      ]
+    },
+    "15335709245810": {
+      "title": "Louis Vuitton Black Small goods A-20965",
+      "price_jpy": 35300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-black-small-goods-a-20965",
+      "history": [
+        35300.0
+      ]
+    },
+    "15335709213042": {
+      "title": "Saint Laurent Black Small goods A-20960",
+      "price_jpy": 22500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-black-small-goods-a-20960",
+      "history": [
+        22500.0
+      ]
+    },
+    "15335707804018": {
+      "title": "Coach Beige Travel Bags A-20981",
+      "price_jpy": 6900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-beige-travel-bags-a-20981",
+      "history": [
+        6900.0
+      ]
+    },
+    "15335707771250": {
+      "title": "Prada Black Backpacks A-20996",
+      "price_jpy": 38200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-backpacks-a-20996",
+      "history": [
+        38200.0
+      ]
+    },
+    "15335707738482": {
+      "title": "Balenciaga White Handle Bags A-20998",
+      "price_jpy": 47400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/balenciaga-white-handle-bags-a-20998",
+      "history": [
+        47400.0
+      ]
+    },
+    "15335707705714": {
+      "title": "Prada Black Tote Bags A-20994",
+      "price_jpy": 32100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20994",
+      "history": [
+        32100.0
+      ]
+    },
+    "15335707672946": {
+      "title": "Burberry Beige Travel Bags A-20990",
+      "price_jpy": 19900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-travel-bags-a-20990",
+      "history": [
+        19900.0
+      ]
+    },
+    "15335707640178": {
+      "title": "Coach Black Shoulder Bags A-20980",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-black-shoulder-bags-a-20980",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335707607410": {
+      "title": "Coach Pink Handle Bags A-20989",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-pink-handle-bags-a-20989",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335707541874": {
+      "title": "Fendi Navy Handle Bags A-20995",
+      "price_jpy": 47400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-navy-handle-bags-a-20995",
+      "history": [
+        47400.0
+      ]
+    },
+    "15335707509106": {
+      "title": "Coach Beige Backpacks A-20997",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-beige-backpacks-a-20997",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335707476338": {
+      "title": "Celine Brown Handle Bags A-20983",
+      "price_jpy": 30600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-handle-bags-a-20983",
+      "history": [
+        30600.0
+      ]
+    },
+    "15335707443570": {
+      "title": "Prada Black Shoulder Bags A-20985",
+      "price_jpy": 47400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20985",
+      "history": [
+        47400.0
+      ]
+    },
+    "15335707410802": {
+      "title": "Prada Black Shoulder Bags A-20992",
+      "price_jpy": 51900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20992",
+      "history": [
+        51900.0
+      ]
+    },
+    "15335707378034": {
+      "title": "Coach Beige Handle Bags A-20986",
+      "price_jpy": 6900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-beige-handle-bags-a-20986",
+      "history": [
+        6900.0
+      ]
+    },
+    "15335707345266": {
+      "title": "Fendi Brown Tote Bags A-20991",
+      "price_jpy": 47400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-brown-tote-bags-a-20991",
+      "history": [
+        47400.0
+      ]
+    },
+    "15335707312498": {
+      "title": "Coach Beige Shoulder Bags A-20999",
+      "price_jpy": 5300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-beige-shoulder-bags-a-20999",
+      "history": [
+        5300.0
+      ]
+    },
+    "15335705543026": {
+      "title": "Ferragamo Green Scarves A-21013",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-green-scarves-a-21013",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335705444722": {
+      "title": "Fendi Black Scarves A-21012",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-scarves-a-21012",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335705313650": {
+      "title": "Chanel Red Scarves A-21014",
+      "price_jpy": 22900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-red-scarves-a-21014",
+      "history": [
+        22900.0
+      ]
+    },
+    "15335705280882": {
+      "title": "Ferragamo Gold Small goods A-21010",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-21010",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335705215346": {
+      "title": "Loewe Green Wallets A-21011",
+      "price_jpy": 18300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/loewe-green-wallets-a-21011",
+      "history": [
+        18300.0
+      ]
+    },
+    "15335705084274": {
+      "title": "Dior Red Scarves A-21016",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-red-scarves-a-21016",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335704985970": {
+      "title": "Celine Multicolor Scarves A-21018",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-multicolor-scarves-a-21018",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335704953202": {
+      "title": "Dior Navy Tote Bags A-21000",
+      "price_jpy": 48900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-navy-tote-bags-a-21000",
+      "history": [
+        48900.0
+      ]
+    },
+    "15335719928178": {
+      "title": "Prada Black Shoulder Bags A-20857",
+      "price_jpy": 57900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20857",
+      "history": [
+        57900.0
+      ]
+    },
+    "15335719895410": {
+      "title": "Fendi Brown Wallets A-20854",
+      "price_jpy": 12200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-brown-wallets-a-20854",
+      "history": [
+        12200.0
+      ]
+    },
+    "15335719862642": {
+      "title": "Versace Gold Small goods A-20850",
+      "price_jpy": 21000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/versace-gold-small-goods-a-20850",
+      "history": [
+        21000.0
+      ]
+    },
+    "15335719666034": {
+      "title": "Celine Gold Necklaces A-20856",
+      "price_jpy": 19400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-gold-necklaces-a-20856",
+      "history": [
+        19400.0
+      ]
+    },
+    "15335718093170": {
+      "title": "Burberry Black Tote Bags B-20865",
+      "price_jpy": 32200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-black-tote-bags-b-20865",
+      "history": [
+        32200.0
+      ]
+    },
+    "15335718027634": {
+      "title": "Burberry Green B-20869",
+      "price_jpy": 23500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-green-b-20869",
+      "history": [
+        23500.0
+      ]
+    },
+    "15335717994866": {
+      "title": "Other Red Shoulder Bags B-20867",
+      "price_jpy": 5600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/other-red-shoulder-bags-b-20867",
+      "history": [
+        5600.0
+      ]
+    },
+    "15335717962098": {
+      "title": "Prada Pink Tote Bags A-20879",
+      "price_jpy": 72400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-tote-bags-a-20879",
+      "history": [
+        72400.0
+      ]
+    },
+    "15335717896562": {
+      "title": "Dior Navy Shoulder Bags A-20878",
+      "price_jpy": 82800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-navy-shoulder-bags-a-20878",
+      "history": [
+        82800.0
+      ]
+    },
+    "15335717863794": {
+      "title": "Louis Vuitton Brown Handle Bags A-20877",
+      "price_jpy": 134100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-handle-bags-a-20877",
+      "history": [
+        134100.0
+      ]
+    },
+    "15335717831026": {
+      "title": "Hermes Black Tote Bags A-20862",
+      "price_jpy": 21400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-black-tote-bags-a-20862",
+      "history": [
+        21400.0
+      ]
+    },
+    "15335717798258": {
+      "title": "Louis Vuitton Brown Pouches A-20875",
+      "price_jpy": 68300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20875",
+      "history": [
+        68300.0
+      ]
+    },
+    "15335717765490": {
+      "title": "Celine Brown Tote Bags A-20876",
+      "price_jpy": 37100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-tote-bags-a-20876",
+      "history": [
+        37100.0
+      ]
+    },
+    "15335717732722": {
+      "title": "Louis Vuitton Multicolor Small goods A-20860",
+      "price_jpy": 45800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-multicolor-small-goods-a-20860",
+      "history": [
+        45800.0
+      ]
+    },
+    "15335717699954": {
+      "title": "Louis Vuitton Brown Pouches A-20874",
+      "price_jpy": 55500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20874",
+      "history": [
+        55500.0
+      ]
+    },
+    "15335717667186": {
+      "title": "Other Navy B-20871",
+      "price_jpy": 21200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/other-navy-b-20871",
+      "history": [
+        21200.0
+      ]
+    },
+    "15335717634418": {
+      "title": "Goyard Red Small goods A-20864",
+      "price_jpy": 64200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/goyard-red-small-goods-a-20864",
+      "history": [
+        64200.0
+      ]
+    },
+    "15335717601650": {
+      "title": "Other White Shoulder Bags B-20868",
+      "price_jpy": 14700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/other-white-shoulder-bags-b-20868",
+      "history": [
+        14700.0
+      ]
+    },
+    "15335717536114": {
+      "title": "Ferragamo Black Tote Bags B-20866",
+      "price_jpy": 57100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-black-tote-bags-b-20866",
+      "history": [
+        57100.0
+      ]
+    },
+    "15335717503346": {
+      "title": "Prada Pink Tote Bags A-20861",
+      "price_jpy": 56500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-tote-bags-a-20861",
+      "history": [
+        56500.0
+      ]
+    },
+    "15335717470578": {
+      "title": "Louis Vuitton Black Small goods A-20863",
+      "price_jpy": 21400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-black-small-goods-a-20863",
+      "history": [
+        21400.0
+      ]
+    },
+    "15335715701106": {
+      "title": "Chanel Black Wallets A-20888",
+      "price_jpy": 49900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-wallets-a-20888",
+      "history": [
+        49900.0
+      ]
+    },
+    "15335715668338": {
+      "title": "Chanel Gold Earrings A-20898",
+      "price_jpy": 56300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-gold-earrings-a-20898",
+      "history": [
+        56300.0
+      ]
+    },
+    "15335715602802": {
+      "title": "Fendi Black Wallets A-20895",
+      "price_jpy": 27400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/fendi-black-wallets-a-20895",
+      "history": [
+        27400.0
+      ]
+    },
+    "15335715471730": {
+      "title": "Prada Black Handle Bags A-20882",
+      "price_jpy": 54700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-handle-bags-a-20882",
+      "history": [
+        54700.0
+      ]
+    },
+    "15335715438962": {
+      "title": "Prada Beige Handle Bags A-20883",
+      "price_jpy": 72400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-handle-bags-a-20883",
+      "history": [
+        72400.0
+      ]
+    },
+    "15335715373426": {
+      "title": "Gucci Pink Wallets A-20892",
+      "price_jpy": 29000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-pink-wallets-a-20892",
+      "history": [
+        29000.0
+      ]
+    },
+    "15335715340658": {
+      "title": "Dior Beige Wallets A-20894",
+      "price_jpy": 28200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-beige-wallets-a-20894",
+      "history": [
+        28200.0
+      ]
+    },
+    "15335715275122": {
+      "title": "Prada Black Tote Bags A-20880",
+      "price_jpy": 53100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20880",
+      "history": [
+        53100.0
+      ]
+    },
+    "15335715242354": {
+      "title": "Gucci Beige Tote Bags A-20881",
+      "price_jpy": 48300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-tote-bags-a-20881",
+      "history": [
+        48300.0
+      ]
+    },
+    "15335715209586": {
+      "title": "Louis Vuitton Brown Pouches A-20893",
+      "price_jpy": 32300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20893",
+      "history": [
+        32300.0
+      ]
+    },
+    "15335715176818": {
+      "title": "Louis Vuitton Brown Wallets A-20891",
+      "price_jpy": 13800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-wallets-a-20891",
+      "history": [
+        13800.0
+      ]
+    },
+    "15335715144050": {
+      "title": "Prada Black Wallets A-20896",
+      "price_jpy": 30600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-wallets-a-20896",
+      "history": [
+        30600.0
+      ]
+    },
+    "15335715111282": {
+      "title": "Prada Pink Wallets A-20897",
+      "price_jpy": 27400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-wallets-a-20897",
+      "history": [
+        27400.0
+      ]
+    },
+    "15335715078514": {
+      "title": "Chanel Black Shoulder Bags A-20884",
+      "price_jpy": 225400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-shoulder-bags-a-20884",
+      "history": [
+        225400.0
+      ]
+    },
+    "15335715045746": {
+      "title": "Hermes Black Shoulder Bags A-20887",
+      "price_jpy": 72400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-black-shoulder-bags-a-20887",
+      "history": [
+        72400.0
+      ]
+    },
+    "15335715012978": {
+      "title": "Chanel Black Wallets A-20889",
+      "price_jpy": 45900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-wallets-a-20889",
+      "history": [
+        45900.0
+      ]
+    },
+    "15335714980210": {
+      "title": "Saint Laurent Black Shoulder Bags A-20885",
+      "price_jpy": 58700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-black-shoulder-bags-a-20885",
+      "history": [
+        58700.0
+      ]
+    },
+    "15335714947442": {
+      "title": "Prada Beige Wallets A-20890",
+      "price_jpy": 25000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-wallets-a-20890",
+      "history": [
+        25000.0
+      ]
+    },
+    "15335714914674": {
+      "title": "Prada Black Shoulder Bags A-20886",
+      "price_jpy": 51500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20886",
+      "history": [
+        51500.0
+      ]
+    },
+    "15335714881906": {
+      "title": "Louis Vuitton Pink Small goods A-20908",
+      "price_jpy": 26000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-pink-small-goods-a-20908",
+      "history": [
+        26000.0
+      ]
+    },
+    "15335711867250": {
+      "title": "Prada Pink Wallets A-20910",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-wallets-a-20910",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335711768946": {
+      "title": "Gucci Multicolor Scarves A-20949",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-multicolor-scarves-a-20949",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335711670642": {
+      "title": "Burberry Gray Scarves A-20955",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-gray-scarves-a-20955",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335711605106": {
+      "title": "Saint Laurent Brown Scarves A-20945",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-scarves-a-20945",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335711506802": {
+      "title": "Ferragamo Gold Earrings A-20929",
+      "price_jpy": 7000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-earrings-a-20929",
+      "history": [
+        7000.0
+      ]
+    },
+    "15335711474034": {
+      "title": "Dior Purple Scarves A-20938",
+      "price_jpy": 18300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-purple-scarves-a-20938",
+      "history": [
+        18300.0
+      ]
+    },
+    "15335711441266": {
+      "title": "Celine Navy Scarves A-20941",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-navy-scarves-a-20941",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335711342962": {
+      "title": "Burberry Beige Scarves A-20946",
+      "price_jpy": 11500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-scarves-a-20946",
+      "history": [
+        11500.0
+      ]
+    },
+    "15335711310194": {
+      "title": "Ferragamo Gold Small goods A-20926",
+      "price_jpy": 8400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-20926",
+      "history": [
+        8400.0
+      ]
+    },
+    "15335727792498": {
+      "title": "Navy B-20571",
+      "price_jpy": 80000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/navy-b-20571",
+      "history": [
+        80000.0
+      ]
+    },
+    "15335727759730": {
+      "title": "Brown B-20573",
+      "price_jpy": 30600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20573",
+      "history": [
+        30600.0
+      ]
+    },
+    "15335727694194": {
+      "title": "Beige B-20569",
+      "price_jpy": 49400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20569",
+      "history": [
+        49400.0
+      ]
+    },
+    "15335727661426": {
+      "title": "Multicolor B-20584",
+      "price_jpy": 18800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/multicolor-b-20584",
+      "history": [
+        18800.0
+      ]
+    },
+    "15335727628658": {
+      "title": "Gold B-20585",
+      "price_jpy": 62400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gold-b-20585",
+      "history": [
+        62400.0
+      ]
+    },
+    "15335727595890": {
+      "title": "Brown B-20576",
+      "price_jpy": 36500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20576",
+      "history": [
+        36500.0
+      ]
+    },
+    "15335727563122": {
+      "title": "Brown B-20577",
+      "price_jpy": 94100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20577",
+      "history": [
+        94100.0
+      ]
+    },
+    "15335727530354": {
+      "title": "Black B-20581",
+      "price_jpy": 38800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20581",
+      "history": [
+        38800.0
+      ]
+    },
+    "15335727497586": {
+      "title": "Black B-20580",
+      "price_jpy": 44700.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20580",
+      "history": [
+        44700.0
+      ]
+    },
+    "15335727464818": {
+      "title": "Navy B-20586",
+      "price_jpy": 16500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/navy-b-20586",
+      "history": [
+        16500.0
+      ]
+    },
+    "15335727432050": {
+      "title": "Brown B-20587",
+      "price_jpy": 10600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/brown-b-20587",
+      "history": [
+        10600.0
+      ]
+    },
+    "15335727399282": {
+      "title": "Gray B-20562",
+      "price_jpy": 11000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gray-b-20562",
+      "history": [
+        11000.0
+      ]
+    },
+    "15335727366514": {
+      "title": "Beige B-20572",
+      "price_jpy": 47100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20572",
+      "history": [
+        47100.0
+      ]
+    },
+    "15335727333746": {
+      "title": "Multicolor B-20582",
+      "price_jpy": 10400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/multicolor-b-20582",
+      "history": [
+        10400.0
+      ]
+    },
+    "15335727300978": {
+      "title": "Pink B-20578",
+      "price_jpy": 20000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/pink-b-20578",
+      "history": [
+        20000.0
+      ]
+    },
+    "15335727268210": {
+      "title": "Black B-20588",
+      "price_jpy": 37600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20588",
+      "history": [
+        37600.0
+      ]
+    },
+    "15335725760882": {
+      "title": "Black B-20597",
+      "price_jpy": 23500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20597",
+      "history": [
+        23500.0
+      ]
+    },
+    "15335725728114": {
+      "title": "Black B-20590",
+      "price_jpy": 38800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20590",
+      "history": [
+        38800.0
+      ]
+    },
+    "15335725695346": {
+      "title": "Beige B-20596",
+      "price_jpy": 72900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20596",
+      "history": [
+        72900.0
+      ]
+    },
+    "15335725629810": {
+      "title": "Red B-20606",
+      "price_jpy": 7600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/red-b-20606",
+      "history": [
+        7600.0
+      ]
+    },
+    "15335725597042": {
+      "title": "Black B-20598",
+      "price_jpy": 25900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20598",
+      "history": [
+        25900.0
+      ]
+    },
+    "15335725564274": {
+      "title": "White B-20594",
+      "price_jpy": 28200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/white-b-20594",
+      "history": [
+        28200.0
+      ]
+    },
+    "15335725498738": {
+      "title": "Beige B-20595",
+      "price_jpy": 20000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/beige-b-20595",
+      "history": [
+        20000.0
+      ]
+    },
+    "15335725465970": {
+      "title": "Celine Brown Shoulder Bags A-20834",
+      "price_jpy": 37100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-shoulder-bags-a-20834",
+      "history": [
+        37100.0
+      ]
+    },
+    "15335725433202": {
+      "title": "Prada Pink Small goods A-20839",
+      "price_jpy": 24200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-pink-small-goods-a-20839",
+      "history": [
+        24200.0
+      ]
+    },
+    "15335725400434": {
+      "title": "Black B-20601",
+      "price_jpy": 49400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20601",
+      "history": [
+        49400.0
+      ]
+    },
+    "15335725367666": {
+      "title": "Ferragamo Multicolor Scarves A-20837",
+      "price_jpy": 12200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-multicolor-scarves-a-20837",
+      "history": [
+        12200.0
+      ]
+    },
+    "15335725302130": {
+      "title": "Coach Beige Tote Bags A-20838",
+      "price_jpy": 6600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-beige-tote-bags-a-20838",
+      "history": [
+        6600.0
+      ]
+    },
+    "15335725269362": {
+      "title": "Black B-20602",
+      "price_jpy": 38800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20602",
+      "history": [
+        38800.0
+      ]
+    },
+    "15335725236594": {
+      "title": "Black B-20605",
+      "price_jpy": 6500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20605",
+      "history": [
+        6500.0
+      ]
+    },
+    "15335725203826": {
+      "title": "Prada Black Shoulder Bags A-20835",
+      "price_jpy": 57900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-shoulder-bags-a-20835",
+      "history": [
+        57900.0
+      ]
+    },
+    "15335725171058": {
+      "title": "Black B-20593",
+      "price_jpy": 65900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20593",
+      "history": [
+        65900.0
+      ]
+    },
+    "15335725138290": {
+      "title": "Black B-20592",
+      "price_jpy": 70600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20592",
+      "history": [
+        70600.0
+      ]
+    },
+    "15335725105522": {
+      "title": "Black B-20591",
+      "price_jpy": 40000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/black-b-20591",
+      "history": [
+        40000.0
+      ]
+    },
+    "15335725072754": {
+      "title": "Gucci White Shoes A-20836",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-white-shoes-a-20836",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335720616306": {
+      "title": "Gucci Black Shoulder Bags A-20842",
+      "price_jpy": 49900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-black-shoulder-bags-a-20842",
+      "history": [
+        49900.0
+      ]
+    },
+    "15335720485234": {
+      "title": "Prada Black Tote Bags A-20844",
+      "price_jpy": 55500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-tote-bags-a-20844",
+      "history": [
+        55500.0
+      ]
+    },
+    "15335720452466": {
+      "title": "Celine Brown Shoulder Bags A-20841",
+      "price_jpy": 41100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-shoulder-bags-a-20841",
+      "history": [
+        41100.0
+      ]
+    },
+    "15335720419698": {
+      "title": "Louis Vuitton Beige Scarves A-20849",
+      "price_jpy": 11400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-beige-scarves-a-20849",
+      "history": [
+        11400.0
+      ]
+    },
+    "15335720386930": {
+      "title": "Louis Vuitton Brown Handle Bags A-20858",
+      "price_jpy": 96300.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-handle-bags-a-20858",
+      "history": [
+        96300.0
+      ]
+    },
+    "15335720354162": {
+      "title": "Louis Vuitton Brown Handle Bags A-20843",
+      "price_jpy": 99600.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-handle-bags-a-20843",
+      "history": [
+        99600.0
+      ]
+    },
+    "15335720321394": {
+      "title": "Prada Black Handle Bags A-20852",
+      "price_jpy": 72400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-black-handle-bags-a-20852",
+      "history": [
+        72400.0
+      ]
+    },
+    "15335720223090": {
+      "title": "Coach Bordeaux Handle Bags A-20859",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/coach-bordeaux-handle-bags-a-20859",
+      "history": [
+        9900.0
+      ]
+    },
+    "15335720157554": {
+      "title": "Dior Navy Scarves A-20851",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-navy-scarves-a-20851",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335720124786": {
+      "title": "Dior Beige Apparel A-20847",
+      "price_jpy": 12200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-beige-apparel-a-20847",
+      "history": [
+        12200.0
+      ]
+    },
+    "15335720092018": {
+      "title": "Louis Vuitton Brown Pouches A-20848",
+      "price_jpy": 13000.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-pouches-a-20848",
+      "history": [
+        13000.0
+      ]
+    },
+    "15335720059250": {
+      "title": "Chanel Black Pouches A-20846",
+      "price_jpy": 21800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-pouches-a-20846",
+      "history": [
+        21800.0
+      ]
+    },
+    "15335720026482": {
+      "title": "Celine Beige Small goods A-20855",
+      "price_jpy": 9800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-beige-small-goods-a-20855",
+      "history": [
+        9800.0
+      ]
+    },
+    "15335719993714": {
+      "title": "Gucci Multicolor Scarves A-20840",
+      "price_jpy": 9800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-multicolor-scarves-a-20840",
+      "history": [
+        9800.0
+      ]
+    },
+    "15335719960946": {
+      "title": "Prada Beige Wallets A-20845",
+      "price_jpy": 13800.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-wallets-a-20845",
+      "history": [
+        13800.0
+      ]
+    },
+    "15335573979506": {
+      "title": "Louis Vuitton Red Handle Bags MH-106",
+      "price_jpy": 46783.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-red-handle-bags-mh-106",
+      "history": [
+        46783.0
+      ]
+    },
+    "15335569195378": {
+      "title": "Hermes Pink Pouches MH-105",
+      "price_jpy": 24750.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-pink-pouches-mh-105",
+      "history": [
+        24750.0
+      ]
+    },
     "15335512342898": {
       "title": "Louis Vuitton Yellow Tote Bags MH-104",
       "price_jpy": 32533.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-tote-bags-mh-104",
       "history": [
+        32533.0,
         32533.0
       ]
     },
@@ -14,6 +1583,7 @@
       "price_jpy": 44922.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-shoulder-bags-mh-103",
       "history": [
+        44922.0,
         44922.0
       ]
     },
@@ -22,6 +1592,7 @@
       "price_jpy": 46778.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-gray-tote-bags-mh-102",
       "history": [
+        46778.0,
         46778.0
       ]
     },
@@ -30,6 +1601,7 @@
       "price_jpy": 33110.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-blue-handle-bags-mh-101",
       "history": [
+        33110.0,
         33110.0
       ]
     },
@@ -38,6 +1610,7 @@
       "price_jpy": 29838.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-pouches-mh-100",
       "history": [
+        29838.0,
         29838.0
       ]
     },
@@ -46,6 +1619,7 @@
       "price_jpy": 40838.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-shoulder-bags-mh-99",
       "history": [
+        40838.0,
         40838.0
       ]
     },
@@ -54,6 +1628,7 @@
       "price_jpy": 16335.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-mh-98",
       "history": [
+        16335.0,
         16335.0
       ]
     },
@@ -62,6 +1637,7 @@
       "price_jpy": 16335.0,
       "url": "https://8ythrr-ay.myshopify.com/products/burberry-black-tote-bags-mh-97",
       "history": [
+        16335.0,
         16335.0
       ]
     },
@@ -70,6 +1646,7 @@
       "price_jpy": 22275.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-shoulder-bags-mh-96",
       "history": [
+        22275.0,
         22275.0
       ]
     },
@@ -78,6 +1655,7 @@
       "price_jpy": 31763.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-beige-tote-bags-mh-95",
       "history": [
+        31763.0,
         31763.0
       ]
     },
@@ -86,6 +1664,7 @@
       "price_jpy": 24750.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-beige-tote-bags-mh-94",
       "history": [
+        24750.0,
         24750.0
       ]
     },
@@ -94,6 +1673,7 @@
       "price_jpy": 38500.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-yellow-shoulder-bags-mh-93",
       "history": [
+        38500.0,
         38500.0
       ]
     },
@@ -102,6 +1682,7 @@
       "price_jpy": 19305.0,
       "url": "https://8ythrr-ay.myshopify.com/products/hermes-orange-pouches-mh-92",
       "history": [
+        19305.0,
         19305.0
       ]
     },
@@ -81831,7 +83412,7 @@
       "history": [
         147.0,
         147.0,
-        147.0,
+        1470.0,
         1470.0,
         1470.0,
         1470.0,
