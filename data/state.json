@@ -1,23 +1,6 @@
 {
   "initialized": true,
   "products": {
-    "15336742027634": {
-      "title": "Louis Vuitton Brown Travel Bags MH-23",
-      "price_jpy": 48400.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-23",
-      "history": [
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0,
-        48400.0
-      ]
-    },
     "15336739701106": {
       "title": "Balenciaga Black Hats MH-29",
       "price_jpy": 18700.0,
@@ -50,23 +33,6 @@
         18700.0,
         18700.0,
         18700.0
-      ]
-    },
-    "15336727642482": {
-      "title": "Bottega Veneta Brown Pouches MH-144",
-      "price_jpy": 16335.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/bottega-veneta-brown-pouches-mh-144",
-      "history": [
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0,
-        16335.0
       ]
     },
     "15336722596210": {
