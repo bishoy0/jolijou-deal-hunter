@@ -1,40 +1,6 @@
 {
   "initialized": true,
   "products": {
-    "15348490502514": {
-      "title": "Tory Burch Beige Tote Bags MH-156",
-      "price_jpy": 3300.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/tory-burch-beige-tote-bags-mh-156",
-      "history": [
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0
-      ]
-    },
-    "15348483326322": {
-      "title": "Kate Spade Green Shoulder Bags MH-155",
-      "price_jpy": 3300.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/kate-spade-green-shoulder-bags-mh-155",
-      "history": [
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0,
-        3300.0
-      ]
-    },
     "15341342359922": {
       "title": "Bally Black Handle Bags MH-148",
       "price_jpy": 6930.0,
@@ -8499,6 +8465,14 @@
         69900.0,
         69900.0,
         69900.0
+      ]
+    },
+    "15279592636786": {
+      "title": "Prada Wallets A-20387",
+      "price_jpy": 20900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-wallets-a-20387",
+      "history": [
+        20900.0
       ]
     },
     "15279592604018": {
@@ -21251,6 +21225,14 @@
         17300.0
       ]
     },
+    "15213654475122": {
+      "title": "Louis Vuitton White Handle Bags A-19295",
+      "price_jpy": 72400.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-white-handle-bags-a-19295",
+      "history": [
+        72400.0
+      ]
+    },
     "15213654442354": {
       "title": "Louis Vuitton Purple Shoulder Bags A-19296",
       "price_jpy": 129100.0,
@@ -33982,23 +33964,6 @@
         5200.0,
         5200.0,
         5200.0
-      ]
-    },
-    "15166732370290": {
-      "title": "Ferragamo Gold Small goods A-18385",
-      "price_jpy": 5600.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-18385",
-      "history": [
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0,
-        5600.0
       ]
     },
     "15166732337522": {
