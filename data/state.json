@@ -1,11 +1,36 @@
 {
   "initialized": true,
   "products": {
+    "15351944348018": {
+      "title": "Burberry Beige Shoulder Bags MH-168",
+      "price_jpy": 12375.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberry-beige-shoulder-bags-mh-168",
+      "history": [
+        12375.0
+      ]
+    },
+    "15351941497202": {
+      "title": "Hermes Beige Pouches MH-167",
+      "price_jpy": 13750.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/hermes-beige-pouches-mh-167",
+      "history": [
+        13750.0
+      ]
+    },
+    "15351932780914": {
+      "title": "Dunhill Black MH-166",
+      "price_jpy": 4125.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-166",
+      "history": [
+        4125.0
+      ]
+    },
     "15351098540402": {
       "title": "Dunhill Black MH-165",
       "price_jpy": 7755.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-165",
       "history": [
+        7755.0,
         7755.0,
         7755.0,
         7755.0
@@ -18,6 +43,7 @@
       "history": [
         4785.0,
         4785.0,
+        4785.0,
         4785.0
       ]
     },
@@ -26,6 +52,7 @@
       "price_jpy": 51645.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-shoulder-bags-mh-163",
       "history": [
+        51645.0,
         51645.0,
         51645.0,
         51645.0
@@ -38,6 +65,7 @@
       "history": [
         5115.0,
         5115.0,
+        5115.0,
         5115.0
       ]
     },
@@ -46,6 +74,7 @@
       "price_jpy": 6930.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-161",
       "history": [
+        6930.0,
         6930.0,
         6930.0,
         6930.0
@@ -58,6 +87,7 @@
       "history": [
         5940.0,
         5940.0,
+        5940.0,
         5940.0
       ]
     },
@@ -66,6 +96,7 @@
       "price_jpy": 5115.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-gray-handle-bags-mh-159",
       "history": [
+        5115.0,
         5115.0,
         5115.0,
         5115.0
@@ -78,6 +109,7 @@
       "history": [
         6930.0,
         6930.0,
+        6930.0,
         6930.0
       ]
     },
@@ -86,6 +118,7 @@
       "price_jpy": 5115.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-157",
       "history": [
+        5115.0,
         5115.0,
         5115.0,
         5115.0
@@ -8562,6 +8595,7 @@
       "price_jpy": 20900.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-wallets-a-20387",
       "history": [
+        20900.0,
         20900.0,
         20900.0,
         20900.0,
@@ -21326,6 +21360,7 @@
         72400.0,
         72400.0,
         72400.0,
+        72400.0,
         72400.0
       ]
     },
@@ -34067,6 +34102,7 @@
       "price_jpy": 5600.0,
       "url": "https://8ythrr-ay.myshopify.com/products/ferragamo-gold-small-goods-a-18385",
       "history": [
+        5600.0,
         5600.0,
         5600.0,
         5600.0
