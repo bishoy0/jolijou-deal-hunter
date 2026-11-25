@@ -1,11 +1,28 @@
 {
   "initialized": true,
   "products": {
+    "15365129830770": {
+      "title": "Gucci Brown Tote Bags MH-201",
+      "price_jpy": 27148.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-tote-bags-mh-201",
+      "history": [
+        27148.0
+      ]
+    },
+    "15365127766386": {
+      "title": "Louis Vuitton Brown Travel Bags MH-200",
+      "price_jpy": 76670.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-200",
+      "history": [
+        76670.0
+      ]
+    },
     "15364558946674": {
       "title": "Louis Vuitton Brown Travel Bags MH-199",
       "price_jpy": 67760.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-199",
       "history": [
+        67760.0,
         67760.0
       ]
     },
@@ -14,6 +31,7 @@
       "price_jpy": 34078.0,
       "url": "https://8ythrr-ay.myshopify.com/products/prada-blue-tote-bags-mh-198",
       "history": [
+        34078.0,
         34078.0
       ]
     },
@@ -22,6 +40,7 @@
       "price_jpy": 14850.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-shoulder-bags-mh-197",
       "history": [
+        14850.0,
         14850.0
       ]
     },
@@ -30,6 +49,7 @@
       "price_jpy": 16995.0,
       "url": "https://8ythrr-ay.myshopify.com/products/dior-red-shoulder-bags-mh-196",
       "history": [
+        16995.0,
         16995.0
       ]
     },
@@ -38,6 +58,7 @@
       "price_jpy": 31768.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-handle-bags-mh-195",
       "history": [
+        31768.0,
         31768.0
       ]
     },
@@ -46,6 +67,7 @@
       "price_jpy": 36190.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-handle-bags-mh-194",
       "history": [
+        36190.0,
         36190.0
       ]
     },
