@@ -1,11 +1,52 @@
 {
   "initialized": true,
   "products": {
+    "15365455905138": {
+      "title": "Balenciaga White MH-206",
+      "price_jpy": 23265.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/balenciaga-white-mh-206",
+      "history": [
+        23265.0
+      ]
+    },
+    "15365449646450": {
+      "title": "Balenciaga White MH-205",
+      "price_jpy": 23265.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/balenciaga-white-mh-205",
+      "history": [
+        23265.0
+      ]
+    },
+    "15365446336882": {
+      "title": "Prada Beige Tote Bags MH-204",
+      "price_jpy": 18810.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-tote-bags-mh-204",
+      "history": [
+        18810.0
+      ]
+    },
+    "15365440536946": {
+      "title": "Prada Green Tote Bags MH-203",
+      "price_jpy": 18810.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-green-tote-bags-mh-203",
+      "history": [
+        18810.0
+      ]
+    },
+    "15365436932466": {
+      "title": "Louis Vuitton Green Handle Bags MH-202",
+      "price_jpy": 23265.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-green-handle-bags-mh-202",
+      "history": [
+        23265.0
+      ]
+    },
     "15365129830770": {
       "title": "Gucci Brown Tote Bags MH-201",
       "price_jpy": 27148.0,
       "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-tote-bags-mh-201",
       "history": [
+        27148.0,
         27148.0,
         27148.0
       ]
@@ -16,6 +57,7 @@
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-200",
       "history": [
         76670.0,
+        76670.0,
         76670.0
       ]
     },
@@ -24,6 +66,7 @@
       "price_jpy": 67760.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-travel-bags-mh-199",
       "history": [
+        67760.0,
         67760.0,
         67760.0,
         67760.0
@@ -36,6 +79,7 @@
       "history": [
         34078.0,
         34078.0,
+        34078.0,
         34078.0
       ]
     },
@@ -44,6 +88,7 @@
       "price_jpy": 14850.0,
       "url": "https://8ythrr-ay.myshopify.com/products/saint-laurent-brown-shoulder-bags-mh-197",
       "history": [
+        14850.0,
         14850.0,
         14850.0,
         14850.0
@@ -56,6 +101,7 @@
       "history": [
         16995.0,
         16995.0,
+        16995.0,
         16995.0
       ]
     },
@@ -66,6 +112,7 @@
       "history": [
         31768.0,
         31768.0,
+        31768.0,
         31768.0
       ]
     },
@@ -74,6 +121,7 @@
       "price_jpy": 36190.0,
       "url": "https://8ythrr-ay.myshopify.com/products/chanel-black-handle-bags-mh-194",
       "history": [
+        36190.0,
         36190.0,
         36190.0,
         36190.0
@@ -164,57 +212,6 @@
         21780.0
       ]
     },
-    "15362800812402": {
-      "title": "Valentino Black MH-188",
-      "price_jpy": 3025.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/valentino-black-mh-188",
-      "history": [
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0
-      ]
-    },
-    "15362798158194": {
-      "title": "Valentino Black MH-187",
-      "price_jpy": 3025.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/valentino-black-mh-187",
-      "history": [
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0
-      ]
-    },
-    "15362796781938": {
-      "title": "Valentino Brown MH-186",
-      "price_jpy": 3025.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/valentino-brown-mh-186",
-      "history": [
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0
-      ]
-    },
     "15362784461170": {
       "title": "Celine Beige Handle Bags MH-185",
       "price_jpy": 23265.0,
@@ -247,40 +244,6 @@
         3025.0,
         3025.0,
         3025.0
-      ]
-    },
-    "15362780627314": {
-      "title": "Valentino White MH-183",
-      "price_jpy": 3025.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/valentino-white-mh-183",
-      "history": [
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0,
-        3025.0
-      ]
-    },
-    "15362780397938": {
-      "title": "Chanel Beige Handle Bags MH-181",
-      "price_jpy": 21780.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/chanel-beige-handle-bags-mh-181",
-      "history": [
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0,
-        21780.0
       ]
     },
     "15362780103026": {
@@ -4550,23 +4513,6 @@
         51051.0
       ]
     },
-    "15358119739762": {
-      "title": "Prada Beige Handle Bags MH-170",
-      "price_jpy": 40843.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-handle-bags-mh-170",
-      "history": [
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0,
-        40843.0
-      ]
-    },
     "15358119674226": {
       "title": "Gucci Beige Shoulder Bags MH-169",
       "price_jpy": 21780.0,
@@ -4786,57 +4732,6 @@
         5115.0,
         5115.0,
         5115.0
-      ]
-    },
-    "15341342359922": {
-      "title": "Bally Black Handle Bags MH-148",
-      "price_jpy": 6930.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/bally-black-handle-bags-mh-148",
-      "history": [
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0
-      ]
-    },
-    "15341322273138": {
-      "title": "Dunhill Black MH-146",
-      "price_jpy": 6930.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-146",
-      "history": [
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0,
-        6930.0
-      ]
-    },
-    "15341245759858": {
-      "title": "Dunhill Black MH-145",
-      "price_jpy": 4785.0,
-      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-145",
-      "history": [
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0,
-        4785.0
       ]
     },
     "15336645263730": {
