@@ -1,11 +1,172 @@
 {
   "initialized": true,
   "products": {
+    "15372173836658": {
+      "title": "Louis Vuitton Brown MH-228",
+      "price_jpy": 15978.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-mh-228",
+      "history": [
+        15978.0
+      ]
+    },
+    "15372169904498": {
+      "title": "Dior Navy Handle Bags MH-227",
+      "price_jpy": 30624.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dior-navy-handle-bags-mh-227",
+      "history": [
+        30624.0
+      ]
+    },
+    "15372164333938": {
+      "title": "Celine Brown Shoulder Bags MH-226",
+      "price_jpy": 13860.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/celine-brown-shoulder-bags-mh-226",
+      "history": [
+        13860.0
+      ]
+    },
+    "15372161941874": {
+      "title": "Gucci Beige Handle Bags MH-225",
+      "price_jpy": 9900.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-beige-handle-bags-mh-225",
+      "history": [
+        9900.0
+      ]
+    },
+    "15372065669490": {
+      "title": "Prada Orange Tote Bags MH-224",
+      "price_jpy": 13200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-orange-tote-bags-mh-224",
+      "history": [
+        13200.0
+      ]
+    },
+    "15372055282034": {
+      "title": "Gucci Brown Shoulder Bags MH-223",
+      "price_jpy": 14823.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-shoulder-bags-mh-223",
+      "history": [
+        14823.0
+      ]
+    },
+    "15372042961266": {
+      "title": "Dunhill Black MH-222",
+      "price_jpy": 12540.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-222",
+      "history": [
+        12540.0
+      ]
+    },
+    "15372041290098": {
+      "title": "Dunhill Brown MH-221",
+      "price_jpy": 8580.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-brown-mh-221",
+      "history": [
+        8580.0
+      ]
+    },
+    "15372038603122": {
+      "title": "Dunhill Black MH-220",
+      "price_jpy": 8580.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-220",
+      "history": [
+        8580.0
+      ]
+    },
+    "15372034244978": {
+      "title": "Dunhill Black MH-219",
+      "price_jpy": 11440.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-219",
+      "history": [
+        11440.0
+      ]
+    },
+    "15372030673266": {
+      "title": "Prada Beige Tote Bags MH-218",
+      "price_jpy": 14630.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-beige-tote-bags-mh-218",
+      "history": [
+        14630.0
+      ]
+    },
+    "15372027265394": {
+      "title": "Gucci Brown Handle Bags MH-217",
+      "price_jpy": 26318.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/gucci-brown-handle-bags-mh-217",
+      "history": [
+        26318.0
+      ]
+    },
+    "15372023660914": {
+      "title": "Prada Blue Tote Bags MH-216",
+      "price_jpy": 28232.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/prada-blue-tote-bags-mh-216",
+      "history": [
+        28232.0
+      ]
+    },
+    "15372015731058": {
+      "title": "Valentino Navy MH-215",
+      "price_jpy": 4620.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/valentino-navy-mh-215",
+      "history": [
+        4620.0
+      ]
+    },
+    "15372013470066": {
+      "title": "Dunhill Black MH-214",
+      "price_jpy": 5500.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/dunhill-black-mh-214",
+      "history": [
+        5500.0
+      ]
+    },
+    "15372010619250": {
+      "title": "Burberrys Beige Shoulder Bags MH-213",
+      "price_jpy": 12100.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/burberrys-beige-shoulder-bags-mh-213",
+      "history": [
+        12100.0
+      ]
+    },
+    "15372007702898": {
+      "title": "Valentino Black MH-212",
+      "price_jpy": 4620.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/valentino-black-mh-212",
+      "history": [
+        4620.0
+      ]
+    },
+    "15372005441906": {
+      "title": "Valentino Brown Shoulder Bags MH-211",
+      "price_jpy": 4620.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/valentino-brown-shoulder-bags-mh-211",
+      "history": [
+        4620.0
+      ]
+    },
+    "15372003246450": {
+      "title": "Valentino Brown Shoulder Bags MH-210",
+      "price_jpy": 4620.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/valentino-brown-shoulder-bags-mh-210",
+      "history": [
+        4620.0
+      ]
+    },
+    "15371987059058": {
+      "title": "Louis Vuitton Brown MH-209",
+      "price_jpy": 13200.0,
+      "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-mh-209",
+      "history": [
+        13200.0
+      ]
+    },
     "15371975098738": {
       "title": "Cartier Bordeaux Shoulder Bags MH-208",
       "price_jpy": 19250.0,
       "url": "https://8ythrr-ay.myshopify.com/products/cartier-bordeaux-shoulder-bags-mh-208",
       "history": [
+        19250.0,
         19250.0
       ]
     },
@@ -14,6 +175,7 @@
       "price_jpy": 14823.0,
       "url": "https://8ythrr-ay.myshopify.com/products/louis-vuitton-brown-mh-207",
       "history": [
+        14823.0,
         14823.0
       ]
     },
